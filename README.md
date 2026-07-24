@@ -1,8 +1,5 @@
 <div align="center">
 
-<p align="center">
-  <img src="Md.Emtiaz Hoosain Sami.jpg" width="160" alt="Md. Emtiaz Hossain Sami" />
-</p>
 
 
 # Hi there 👋, I'm Md. Emtiaz Hossain Sami
