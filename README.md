@@ -3,7 +3,7 @@
 
 # Hi there 👋, I'm Md. Emtiaz Hossain Sami
 
-<img src="assets/sami-profile-photo.jpg" width="180" style="border-radius:50%;" alt="Emtiaz Hossain Sami" />
+<img src="Md.Emtiaz Hoosain Sami.jpg" width="180" style="border-radius:50%;" alt="Emtiaz Hossain Sami" />
 
 <img src="https://readme-typing-svg.demolab.com/?lines=Full+Stack+Developer;AI+Engineering+Enthusiast;Building+Scalable+Web+Solutions&font=Fira+Code&center=true&width=480&height=45&color=36BCF7&vCenter=true&size=22" />
 
