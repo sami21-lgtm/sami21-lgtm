@@ -2,7 +2,7 @@
 
 
 
-# Hi there 👋, I'm Md. Emtiaz Hossain Sami
+# Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">, I'm Md. Emtiaz Hossain Sami
 
 
 
