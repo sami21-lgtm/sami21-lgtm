@@ -1,7 +1,7 @@
 <div align="center">
 
 <p align="center">
-  <img src="profile-circle.png" width="160" alt="Md. Emtiaz Hossain Sami" />
+  <img src="Md.Emtiaz Hoosain Sami.jpg" width="160" alt="Md. Emtiaz Hossain Sami" />
 </p>
 
 
