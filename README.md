@@ -155,6 +155,6 @@ I continuously sharpen my analytical thinking and algorithmic problem-solving th
 
 <br />
 
-> 💬 *"Architecting impactful solutions through clean code and modern technology."*
+> 💬 *"Architecting impactful solutions through clean code and modern technology."* ⭐
 
 </div>
