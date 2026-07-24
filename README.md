@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="Md.Emtiaz Hoosain Sami.jpg" width="180" style="border-radius:50%;" alt="Emtiaz Hossain Sami" />
+<img src="Md.Emtiaz Hoosain Sami.jpg" width="150" style="border-radius:50%;" alt="Emtiaz Hossain Sami" />
 
 
 # Hi there 👋, I'm Md. Emtiaz Hossain Sami
