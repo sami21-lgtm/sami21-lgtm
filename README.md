@@ -1,44 +1,27 @@
-<h1 align="center">Hi 👋, I'm Md. Emtiaz Hossain Sami</h1>
+<div align="center">
 
-<h3 align="center">
-Software Engineering Student | Frontend Developer | AI Enthusiast
-</h3>
+# Hi there 👋, I'm Emtiaz Hossain
 
-<p align="center">
+<img src="https://readme-typing-svg.demolab.com/?lines=Software+Engineering+Student;Full+Stack+Developer;AI+%26+Open+Source+Enthusiast&font=Fira+Code&center=true&width=480&height=45&color=36BCF7&vCenter=true&size=22" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3500&pause=1000&center=true&vCenter=true&width=700&lines=Software+Engineering+Student;Frontend+Developer;Learning+React+and+Node.js;AI+Enthusiast;Open+Source+Learner;Always+Building+Projects" />
-
-</p>
+</div>
 
 ---
 
-## 👨‍💻 About Me
+## 🚀 About Me
 
-🎓 Software Engineering Student at Daffodil International University
+I'm a **Software Engineering student at Daffodil International University**, passionate about building full-stack web applications and exploring practical AI integrations. I enjoy the full journey of a project — from designing clean interfaces to architecting reliable backends — and I'm currently deepening my expertise in the MERN stack.
 
-🌱 Currently Learning
-
-- React
-- Node.js
-- Express
-- MongoDB
-
-💻 Languages
-
-- HTML
-- CSS
-- JavaScript
-
-🚀 Interested In
-
-- Full Stack Development
-- Artificial Intelligence
-- Open Source
-- Web Development
+- 🎓 **Software Engineering student** — Daffodil International University
+- 🌱 **Currently strengthening:** React · Node.js · Express · MongoDB
+- 💻 **Core languages:** HTML · CSS · JavaScript
+- 🔭 **Focus areas:** Full Stack Development · Artificial Intelligence · Web Development
+- 🤝 **Open to:** Open-source collaboration & full-stack project work
+- 💡 **Approach:** Clean, functional UI paired with solid engineering underneath
 
 ---
 
-## ⚙ Tech Stack
+## ⚙️ Tech Stack
 
 <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,react,mongodb,git,github,vscode,figma" />
 
@@ -46,36 +29,36 @@ Software Engineering Student | Frontend Developer | AI Enthusiast
 
 ## 📈 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=sami21-lgtm&show_icons=true&theme=tokyonight)
+<div align="center">
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=sami21-lgtm&theme=tokyonight)
+![Emtiaz's GitHub stats](https://github-readme-stats.vercel.app/api?username=sami21-lgtm&show_icons=true&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sami21-lgtm&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sami21-lgtm&layout=compact&theme=tokyonight)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sami21-lgtm&layout=compact&theme=tokyonight)
-
----
-
-## 🚀 Featured Projects
-
-🩺 Doctor's AI Assistant
-
-🏥 CareSync Hospital
-
-🤖 AI Chatbot
-
-📻 Tactical Ham Radio System
+</div>
 
 ---
 
-## 📫 Connect
+## 🛠️ Featured Projects
 
-Email:
-samientiaz38@gmail.com
+| Project | Domain |
+|---|---|
+| 🩺 **Doctor's AI Assistant** | Healthcare · AI |
+| 🏥 **CareSync Hospital** | Healthcare · Full Stack |
+| 🤖 **AI Chatbot** | Artificial Intelligence |
+| 📻 **Tactical Ham Radio System** | Systems / Hardware-Software |
 
-GitHub:
-https://github.com/sami21-lgtm
+> Tip: add a one-line description and a repo link under each project — it makes this section far more clickable for recruiters and visitors.
 
-LinkedIn:
-https://www.linkedin.com/in/emtiaz-hossain-6b4416340/
+---
 
-Facebook:
-https://www.facebook.com/emtiaz.hossain.2478
+## 📫 Connect With Me
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samientiaz38@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sami21-lgtm)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emtiaz-hossain-6b4416340/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/emtiaz.hossain.2478)
+
+</div>
