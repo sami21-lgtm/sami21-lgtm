@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="path_to_your_suit_image.jpg" alt="Md. Emtiaz Hossain Sami" style="width: 175px; height: 175px; border-radius: 50%; object-fit: cover; border: 4px solid white; box-shadow: 0px 4px 10px rgba(0,0,0,0.1);">
+<img src="Md.Emtiaz Hoosain Sami.jpg" alt="Md. Emtiaz Hossain Sami" style="width: 175px; height: 175px; border-radius: 50%; object-fit: cover; border: 4px solid white; box-shadow: 0px 4px 10px rgba(0,0,0,0.1);">
 
 
 # Hi there 👋, I'm Md. Emtiaz Hossain Sami
