@@ -44,13 +44,99 @@ I'm a Software Engineering student at **Daffodil International University**, spe
 
 | Project | Live Demo |
 |---|---|
+| 🤖 **Doctor's AI Assistant** | [View Project](https://doctor-s-ai-assistant.vercel.app) |
 | 🍽️ **Restaurant Management System** | [View Project](https://sami21-lgtm.github.io/Sami-s-restaurant/) |
+| 🏥 **CareSync Hospital Management** | [View Project](https://care-sync-hospital-c69f.vercel.app) |
+| 🏥 **Modern Hospital Management System** | [View Project](https://sami21-lgtm.github.io/modern-hospital-management-system/) |
 | 📡 **Radar System** | [View Project](https://sami21-lgtm.github.io/New-rader-system/) |
+| 📻 **Tactical Ham Radio System** | [View Project](https://sami21-lgtm.github.io/Tactical-Ham-radio-system/) |
 | ⛅ **Weather Forecast App** | [View Project](https://sami21-lgtm.github.io/weather-forecast/) |
-| 🏥 **Hospital Management System** | [View Project](https://sami21-lgtm.github.io/modern-hospital-management-system/) |
 | 🌆 **Cyberpunk Future City** | [View Project](https://sami21-lgtm.github.io/Cyberpunk-Future-City/) |
+| 🎨 **ADOR Design Portfolio** | [View Project](https://sami21-lgtm.github.io/ADOR-portfolio/) |
 | 📄 **Lab Report PDF Generator** | [View Project](https://sami21-lgtm.github.io/Lab-Report-PDF-Generator/) |
 | 🏨 **Family Hotel Reservation System** | [View Project](https://sami21-lgtm.github.io/Family-Hotel/) |
+
+<details>
+<summary>🔎 More Projects & Experiments (57 additional repositories — click to expand)</summary>
+
+**AI / Chatbot Variants**
+- [Sami's AI](https://sami-s-ai.vercel.app)
+- [Doctor AI Chatbot](https://sami-doctor-ai-chatbot.vercel.app)
+- [Doctor AI Assistant (alt build)](https://sami21-lgtm.github.io/-Doctor-AI-Assistant/)
+
+**Management Systems (iterations & practice builds)**
+- [Hospital Management System](https://github.com/sami21-lgtm/hospital-management-system)
+- [Hotel Management System](https://github.com/sami21-lgtm/Hotel-Management-system)
+- [Hostel Management System](https://github.com/sami21-lgtm/Hostel-Management-System)
+- [Bank Management System](https://github.com/sami21-lgtm/Bank-Management-system)
+- [Clinic Management System](https://github.com/sami21-lgtm/Clinic-Management-System)
+- [Guest House AquaStay](https://github.com/sami21-lgtm/-Guest-House-AquaStay)
+- [Ma-Baba's Restaurant](https://sami21-lgtm.github.io/Ma-Baba-s-Restaurant/)
+
+**Radio & Radar**
+- [Ham Radio Live](https://github.com/sami21-lgtm/Ham-Radio-Live)
+- [World Radio League](https://github.com/sami21-lgtm/World-Radio-League)
+- [Radar System (early build)](https://github.com/sami21-lgtm/radar-system)
+
+**Portfolio & Portal Builds**
+- [Md. Emtiaz Hossain Sami — Portfolio](https://github.com/sami21-lgtm/Md.-Emtiaz-Hossain-Sami-Portfolio)
+- [Md. Emtiaz Hossain Sami](https://github.com/sami21-lgtm/Md.-Emtiaz-Hossain-Sami)
+- [RADOR Portfolio](https://github.com/sami21-lgtm/RADOR-Portfolio)
+- [Own Portal](https://github.com/sami21-lgtm/Own-portal)
+- [Making Portal](https://github.com/sami21-lgtm/making-portal)
+- [Making My Portal](https://github.com/sami21-lgtm/Making-my-portal)
+- [Animated Portal Making](https://github.com/sami21-lgtm/animated-portal-making)
+- [Creative Portal Making](https://github.com/sami21-lgtm/creative-portal-making)
+- [Creative Portal](https://github.com/sami21-lgtm/Creative-Portal)
+- [Portal](https://github.com/sami21-lgtm/Portal)
+- [Anime Portal](https://github.com/sami21-lgtm/anime-portal)
+- [Making My Website](https://github.com/sami21-lgtm/Making-my-website)
+
+**UI / CSS Practice & Animations**
+- [3D Hover Avengers Card](https://github.com/sami21-lgtm/3D-Hover-Avengers-Card)
+- [Rotating Glowing Earth](https://github.com/sami21-lgtm/Rotating-Glowing-Earth-)
+- [Dynamic Island](https://github.com/sami21-lgtm/Dynamic-Island)
+- [Fly Cart](https://github.com/sami21-lgtm/Fly-Cart)
+- [Banner Text Attractive](https://github.com/sami21-lgtm/Banner-text-attractive)
+- [Banner Text](https://github.com/sami21-lgtm/Banner-text)
+- [Sprite](https://github.com/sami21-lgtm/Sprite)
+- [Tesla Car (updated version)](https://github.com/sami21-lgtm/Tesla-Car-updated-version)
+- [3D Flip Card](https://github.com/sami21-lgtm/3d-flip-card)
+- [House Build Game](https://github.com/sami21-lgtm/House-build-game)
+- [Joystick Prize](https://github.com/sami21-lgtm/joyostick-prize)
+- [Creative Animated Travel Slider](https://github.com/sami21-lgtm/creative-animated-travel-slidder)
+- [Animated Travel Slider](https://github.com/sami21-lgtm/Animated-travel-slider)
+- [Creating Animated Travel Slider](https://github.com/sami21-lgtm/creating-animated-travel-slider)
+- [Animated Water Login](https://github.com/sami21-lgtm/Animated-water-login)
+- [Drum Kit](https://github.com/sami21-lgtm/drum)
+- [Pepsi Logo Recreation](https://github.com/sami21-lgtm/pepsi-logo-creating)
+- [Numerical Clock](https://github.com/sami21-lgtm/Numerical-Clock)
+- [Liquid Button](https://github.com/sami21-lgtm/liquid-button)
+- [Space Explorer](https://github.com/sami21-lgtm/Space-explorer)
+- [Glass Effect Login](https://github.com/sami21-lgtm/glasseffect-login)
+- [Car Games](https://github.com/sami21-lgtm/car-games...)
+
+**Festive & Greeting Pages**
+- [Eid-ul-Adha Eid Card](https://github.com/sami21-lgtm/Eid-el-adha-eid-card)
+- [Eid Card](https://github.com/sami21-lgtm/eid-card)
+- [Eid-ul-Adha Mubarak Card](https://github.com/sami21-lgtm/eid.ul.adha-mubarak-card)
+- [Birthday Page](https://github.com/sami21-lgtm/birthday)
+- [Pahela Baishakh](https://sami21-lgtm.github.io/Pahela-Baishakh/)
+- [Barcode](https://github.com/sami21-lgtm/barcode)
+
+**Utilities & Misc**
+- [Expense Tracker](https://github.com/sami21-lgtm/expense-tracker)
+- [Weather Checking](https://github.com/sami21-lgtm/Weather-checking)
+- [Lab Report PDF Generator (DIU build)](https://github.com/sami21-lgtm/diu-lab-report-pdf-generator)
+- [Making Assignment PDF Portal](https://github.com/sami21-lgtm/making-assignment-pdf-portal)
+
+</details>
+
+<div align="center">
+
+[![View All Repositories](https://img.shields.io/badge/View_All_Repositories-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sami21-lgtm?tab=repositories)
+
+</div>
 
 ---
 
