@@ -28,7 +28,7 @@ I'm a Software Engineering student at **Daffodil International University**, spe
 
 ## ⚙️ Tech Stack
 
-<img src="https://skillicons.dev/icons?i=html,css,js,nodejs,react,mongodb,git,github,vscode,figma,c++.python" />
+<img src="https://skillicons.dev/icons?i=html,css,js,nodejs,react,mongodb,git,github,vscode,figma,c++,python" />
 
 ---
 
