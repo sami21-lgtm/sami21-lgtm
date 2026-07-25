@@ -4,6 +4,35 @@
 
 
 
+<img src="https://readme-typing-svg.demolab.com/?lines=Full+Stack+Developer;AI+Engineering+Enthusiast;Building+Scalable+Web+Solutions&font=Fira+Code&center=true&width=480&height=45&color=36BCF7&vCenter=true&size=22" />
+
+</div>
+
+---
+
+```bash
+sami@github:~$ whoami
+```
+```yaml
+Name     : Md. Emtiaz Hossain Sami
+Role     : Software Engineering Student @ Daffodil International University
+Focus    : Full-Stack Development + AI Engineering
+Status   : Actively seeking internship opportunities
+
+Stack
+Frontend : HTML, CSS, JavaScript, React
+Backend  : Node.js, Express, MongoDB
+Languages: C, C++, JavaScript
+Tools    : Git, GitHub, VS Code, Figma
+
+Highlights
+> 11+ live projects shipped & deployed
+> Active on Codeforces, LeetCode & Beecrowd
+> 5 professional certifications completed
+```
+
+---
+
 ## 🚀 About Me
 
 I'm a Software Engineering student at **Daffodil International University**, specializing in full-stack web development with a growing focus on applied artificial intelligence. My work spans the complete product lifecycle — from designing intuitive, user-centric interfaces to architecting reliable, scalable backend systems and integrating AI-driven features into real-world applications. I sharpen my problem-solving through regular competitive programming practice, and I'm actively seeking internship opportunities where I can apply these skills in a real engineering environment.
@@ -20,7 +49,7 @@ I'm a Software Engineering student at **Daffodil International University**, spe
 
 ## ⚙️ Tech Stack
 
-<img src="https://skillicons.dev/icons?i=html,css,js,nodejs,react,mongodb,git,github,vscode,figma,cpp,python" />
+<img src="https://skillicons.dev/icons?i=html,css,js,nodejs,react,mongodb,git,github,vscode,figma" />
 
 ---
 
@@ -169,5 +198,3 @@ I'm a Software Engineering student at **Daffodil International University**, spe
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/emtiaz.hossain.2478)
 
 </div>
-
-> 💬 *"Architecting impactful solutions through clean code and modern technology."* ⭐
