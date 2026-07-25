@@ -4,34 +4,6 @@
 
 
 
-<img src="https://readme-typing-svg.demolab.com/?lines=Full+Stack+Developer;AI+Engineering+Enthusiast;Building+Scalable+Web+Solutions&font=Fira+Code&center=true&width=480&height=45&color=36BCF7&vCenter=true&size=22" />
-
-</div>
-
----
-
-```bash
-sami@github:~$ whoami
-```
-```yaml
-Name     : Md. Emtiaz Hossain Sami
-Role     : Software Engineering Student @ Daffodil International University
-Focus    : Full-Stack Development + AI Engineering
-Status   : Actively seeking internship opportunities
-
-Stack
-Frontend : HTML, CSS, JavaScript, React
-Backend  : Node.js, Express, MongoDB
-Languages: C, C++, JavaScript
-Tools    : Git, GitHub, VS Code, Figma
-
-Highlights
-> 11+ live projects shipped & deployed
-> Active on Codeforces, LeetCode & Beecrowd
-> 5 professional certifications completed
-```
-
----
 
 ## 🚀 About Me
 
