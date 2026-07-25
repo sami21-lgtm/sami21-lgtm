@@ -98,29 +98,68 @@ I'm Md. Emtiaz Hossain Sami
 
 # ⚡ Current Status
 
-```yaml
-Name      : Md. Emtiaz Hossain Sami
+<table>
+<tr>
+<td>👤 <b>Name</b></td>
+<td><b>Md. Emtiaz Hossain Sami</b></td>
+</tr>
 
-Role      : Software Engineering Student
+<tr>
+<td>🎓 <b>Education</b></td>
+<td>B.Sc. in Software Engineering</td>
+</tr>
 
-University: Daffodil International University
+<tr>
+<td>🏛️ <b>University</b></td>
+<td>Daffodil International University</td>
+</tr>
 
-Location  : Bangladesh 🇧🇩
+<tr>
+<td>🌍 <b>Location</b></td>
+<td>Bangladesh 🇧🇩</td>
+</tr>
 
-Focus     : Full Stack Development + AI Engineering
+<tr>
+<td>💼 <b>Role</b></td>
+<td>Software Engineering Student</td>
+</tr>
 
-Languages : C | C++ | JavaScript
+<tr>
+<td>🚀 <b>Focus</b></td>
+<td>Full Stack Development & AI Engineering</td>
+</tr>
 
-Frontend  : HTML | CSS | React
+<tr>
+<td>💻 <b>Languages</b></td>
+<td>C • C++ • JavaScript</td>
+</tr>
 
-Backend   : Node.js | Express
+<tr>
+<td>🎨 <b>Frontend</b></td>
+<td>HTML • CSS • React</td>
+</tr>
 
-Database  : MongoDB,Xampp
+<tr>
+<td>⚙️ <b>Backend</b></td>
+<td>Node.js • Express.js</td>
+</tr>
 
-Tools      : Git | GitHub | VS Code | Figma
+<tr>
+<td>🗄️ <b>Database</b></td>
+<td>MongoDB</td>
+</tr>
 
-Status     : Open to Internship Opportunities
-```
+<tr>
+<td>🛠️ <b>Tools</b></td>
+<td>Git • GitHub • VS Code • Figma</td>
+</tr>
+
+<tr>
+<td>📈 <b>Status</b></td>
+<td>🟢 Open to Software Engineering Internship Opportunities</td>
+</tr>
+
+</table>
 
 ---
 
