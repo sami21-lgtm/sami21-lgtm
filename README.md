@@ -27,25 +27,23 @@ I'm Md. Emtiaz Hossain Sami
 
 
 ---
-💫 About Me
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=4"/>
-</p>
+# 💫 About Me
 
 <img align="right" width="340" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif"/>
 
-🎓 Software Engineering Student at **Daffodil International University**
+🎓 **Software Engineering Student** at **Daffodil International University**
 
 💻 Passionate about building **Modern Web Applications**
 
 🤖 Exploring **Artificial Intelligence** & **Machine Learning**
 
-🚀 Love creating beautiful UI/UX with scalable backend systems
+🚀 Love creating beautiful **UI/UX** with scalable backend systems
 
+🌱 Always learning new technologies and transforming ideas into real-world software.
 
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=4"/>
-</p>
+<br clear="right"/>
+
+<br><br>
 
 # 🚀 Current Focus
 
@@ -53,37 +51,43 @@ I'm Md. Emtiaz Hossain Sami
 - 🛠️ Building robust backend services using **Node.js** & **Express.js**
 - 🗄️ Working with **MongoDB** for modern database solutions
 - 🤖 Exploring practical applications of **Artificial Intelligence**
-- 📈 Continuously improving problem-solving, system design, and software engineering skills
+- 📈 Continuously improving **Problem Solving**, **System Design**, and **Software Engineering** skills
 
----
-
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=4"/>
-</p>
+<br><br>
 
 # 🎯 Career Objectives
 
-- 💼 Secure a Software Engineering Internship
-- 🚀 Build production-ready Full-Stack applications
-- 🌍 Contribute to open-source communities
-- 🤖 Create AI-driven software solutions
-- 📚 Continuously learn and adopt modern technologies
+- 💼 Secure a **Software Engineering Internship**
+- 🚀 Build **Production-Ready Full Stack Applications**
+- 🌍 Contribute to **Open Source Communities**
+- 🤖 Create **AI-Driven Software Solutions**
+- 📚 Continuously learn and adopt **Modern Technologies**
 
-
-
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=4"/>
-</p>
+<br><br>
 
 # 🛠️ Tech Stack
 
-<p align="center">
+<div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,git,github,vscode,figma,cpp,c&perline=7"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,git,github,vscode,figma,c,cpp&perline=6"/>
 
-</p>
+</div>
 
----
+<br>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+
+</div>
+
+<br><br>
 
 # 📊 GitHub Analytics
 
