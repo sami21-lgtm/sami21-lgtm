@@ -10,8 +10,8 @@
 
 ---
 
-```bash
-sami@github:~$ sami21-lgtm
+```ansi
+[38;5;51msami@github[38;5;250m:[38;5;213m~[38;5;250m$ [38;5;213msami21-lgtm[0m
 ```
 ```yaml
 Name     : Md. Emtiaz Hossain Sami
@@ -30,8 +30,6 @@ Highlights
 > Active on Codeforces, LeetCode & Beecrowd
 > 5 professional certifications completed
 ```
-
----
 
 ## 🚀 About Me
 
