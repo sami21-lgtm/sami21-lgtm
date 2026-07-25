@@ -5,7 +5,7 @@
 
 <br/>
 
-<img src="assets/sami-profile-photo.jpg" width="180" style="border-radius:50%;" alt="Emtiaz Hossain Sami" />
+
 
 <br/><br/>
 
