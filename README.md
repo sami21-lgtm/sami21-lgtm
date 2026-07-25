@@ -78,9 +78,6 @@ I'm Md. Emtiaz Hossain Sami
 
 </p>
 
-<p align="center">
-
-<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sami21-lgtm&layout=compact&theme=tokyonight"/>
 
 </p>
 
