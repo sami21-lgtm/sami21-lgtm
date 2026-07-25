@@ -2,38 +2,6 @@
 
 # Hi there 👋, I'm Md. Emtiaz Hossain Sami
 
-<img src="https://readme-typing-svg.demolab.com/?lines=Full+Stack+Developer;AI+Engineering+Enthusiast;Building+Scalable+Web+Solutions&font=Fira+Code&center=true&width=480&height=45&color=36BCF7&vCenter=true&size=22" alt="Typing SVG" />
-
-</div>
-
-<br />
-
-<table border="0" width="100%">
-  <tr>
-    
-    <td valign="top" align="center" width="45%">
-<pre align="left">
-          ,,,,,
-       ,fffffffffff,
-     ,fffffffffffffff,
-    fffffffffffffffffff
-   ffffffff#S%?*+;:ffff
-   ffffffffff;:..,,ffff
-   ffffffffff;;::::ffff
-   ffffffffff,,....ffff
-    fffffffffffffffffff
-     'fffffffffffffff'
-        'ffffffffff'
-       /            \
-      /              \
-</pre>
-      <sub><b>Low-Res Portrait (Sami)</b></sub>
-    </td>
-
-    <!-- ডান পাশ: Terminal whoami -->
-    <td valign="top" width="55%">
-<pre>
-<span color="#36BCF7"><b>sami@github:~$ whoami</b></span>
 
 <b>Name     :</b> Md. Emtiaz Hossain Sami
 <b>Role     :</b> Software Engineering Student @ DIU
