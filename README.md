@@ -27,8 +27,10 @@ I'm Md. Emtiaz Hossain Sami
 
 
 ---
-
-# 💫 About Me
+💫 About Me
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=4"/>
+</p>
 
 <img align="right" width="340" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif"/>
 
@@ -40,7 +42,12 @@ I'm Md. Emtiaz Hossain Sami
 
 🚀 Love creating beautiful UI/UX with scalable backend systems
 
-## 🚀 Current Focus
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=4"/>
+</p>
+
+# 🚀 Current Focus
 
 - ⚛️ Developing scalable web applications with **React.js**
 - 🛠️ Building robust backend services using **Node.js** & **Express.js**
@@ -50,7 +57,11 @@ I'm Md. Emtiaz Hossain Sami
 
 ---
 
-## 🎯 Career Objectives
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=4"/>
+</p>
+
+# 🎯 Career Objectives
 
 - 💼 Secure a Software Engineering Internship
 - 🚀 Build production-ready Full-Stack applications
@@ -60,7 +71,11 @@ I'm Md. Emtiaz Hossain Sami
 
 
 
-# 🚀 Tech Stack
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=4"/>
+</p>
+
+# 🛠️ Tech Stack
 
 <p align="center">
 
