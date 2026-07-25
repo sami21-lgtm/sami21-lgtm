@@ -11,7 +11,7 @@
 ---
 
 ```ansi
-[38;5;51msami@github[38;5;250m:[38;5;213m~[38;5;250m$ [38;5;213msami21-lgtm[0m
+sami@github:~ sami21-lgtm
 ```
 ```yaml
 Name     : Md. Emtiaz Hossain Sami
