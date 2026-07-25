@@ -223,15 +223,15 @@ Status     : Open to Internship Opportunities
 
 # 📜 Certifications
 
-🏅 Foundation of Cybersecurity — Coursera
+🏅 Foundation of Cybersecurity — Coursera (Apr 2026) → View Certificate
 
-🏅 Operating Systems and You — Coursera
+🏅 Operating Systems and You: Becoming a Power User — Coursera (May 2026) → View Certificate
 
-🏅 C Programming Language — 10 Minute School
+🏅 C Programming Language — 10 Minute School (Jul 2025) → View Certificate
 
-🏅 Cyber Hygiene
+🏅 Cyber Hygiene (Jul 2025) → View Certificate
 
-🏅 Communication Hacks
+🏅 Communication Hacks — 10 Minute School (May 2026) → View Certificate
 
 ---
 
