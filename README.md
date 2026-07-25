@@ -1,197 +1,393 @@
+<!-- ========================= -->
+<!--      PREMIUM HEADER       -->
+<!-- ========================= -->
 
-<div align="center">
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Md.%20Emtiaz%20Hossain%20Sami&fontSize=48&fontAlignY=40&desc=Software%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20AI%20Enthusiast&descAlignY=60&animation=fadeIn"/>
+</p>
 
-# Hi there 👋, I'm Md. Emtiaz Hossain Sami
+<h1 align="center">
+Hi There
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
+I'm Md. Emtiaz Hossain Sami
+</h1>
 
+<h3 align="center">
+🚀 Software Engineering Student • Full Stack Developer • AI Enthusiast
+</h3>
 
-<img src="https://readme-typing-svg.demolab.com/?lines=Full+Stack+Developer;AI+Engineering+Enthusiast;Building+Scalable+Web+Solutions&font=Fira+Code&center=true&width=480&height=45&color=36BCF7&vCenter=true&size=22" />
+<p align="center">
 
-</div>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1200&color=00F7FF&center=true&vCenter=true&width=850&lines=Full+Stack+Developer;AI+Engineering+Enthusiast;Building+Scalable+Applications;Always+Learning+New+Technologies;Open+Source+Contributor;Future+Software+Engineer"/>
+
+</p>
 
 ---
-```bash
-sami@github:~$ sami21-lgtm
-```
+
+<p align="center">
+
+![](https://komarev.com/ghpvc/?username=sami21-lgtm&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge)
+
+![](https://img.shields.io/github/followers/sami21-lgtm?logo=github&style=for-the-badge)
+
+![](https://img.shields.io/github/stars/sami21-lgtm?style=for-the-badge)
+
+![](https://img.shields.io/github/last-commit/sami21-lgtm/sami21-lgtm?style=for-the-badge)
+
+</p>
+
+---
+
+# 💫 About Me
+
+<img align="right" width="340" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif"/>
+
+🎓 Software Engineering Student at **Daffodil International University**
+
+💻 Passionate about building **Modern Web Applications**
+
+🤖 Exploring **Artificial Intelligence** & **Machine Learning**
+
+🚀 Love creating beautiful UI/UX with scalable backend systems
+
+🌱 Currently Learning
+
+- React.js
+- Node.js
+- Express.js
+- MongoDB
+- AI Integration
+
+🎯 2026 Goals
+
+- Get a Software Engineering Internship
+- Become a Full Stack Engineer
+- Contribute to Open Source
+- Build AI Products
+
+---
+
+# 🚀 Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,git,github,vscode,figma,cpp,c&perline=7"/>
+
+</p>
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=sami21-lgtm&show_icons=true&theme=tokyonight"/>
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=sami21-lgtm&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sami21-lgtm&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sami21-lgtm&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=sami21-lgtm&theme=tokyonight&column=4&margin-w=15&margin-h=15&no-frame=true"/>
+
+</p>
+
+---
+
+# ⚡ Current Status
+
 ```yaml
-Name     : Md. Emtiaz Hossain Sami
-Role     : Software Engineering Student @ Daffodil International University
-Focus    : Full-Stack Development + AI Engineering
-Status   : Actively seeking internship opportunities
+Name      : Md. Emtiaz Hossain Sami
 
-Stack
-Frontend : HTML, CSS, JavaScript, React
-Backend  : Node.js, Express, MongoDB
-Languages: C, C++, JavaScript
-Tools    : Git, GitHub, VS Code, Figma
+Role      : Software Engineering Student
 
-Highlights
-> 11+ live projects shipped & deployed
-> Active on Codeforces, LeetCode & Beecrowd
-> 5 professional certifications completed
+University: Daffodil International University
+
+Location  : Bangladesh 🇧🇩
+
+Focus     : Full Stack Development + AI Engineering
+
+Languages : C | C++ | JavaScript
+
+Frontend  : HTML | CSS | React
+
+Backend   : Node.js | Express
+
+Database  : MongoDB
+
+Tools      : Git | GitHub | VS Code | Figma
+
+Status     : Open to Internship Opportunities
 ```
 
-## 🚀 About Me
+---
 
-I'm a Software Engineering student at **Daffodil International University**, specializing in full-stack web development with a growing focus on applied artificial intelligence. My work spans the complete product lifecycle — from designing intuitive, user-centric interfaces to architecting reliable, scalable backend systems and integrating AI-driven features into real-world applications. I sharpen my problem-solving through regular competitive programming practice, and I'm actively seeking internship opportunities where I can apply these skills in a real engineering environment.
-
-- 🎓 **Education:** B.Sc. in Software Engineering, Daffodil International University (2024 – 2028)
-- 💼 **Specialization:** Full-Stack Web Development & AI Engineering
-- 🌱 **Currently advancing:** React · Node.js · Express · MongoDB
-- 💻 **Languages:** JavaScript · C++ · C · HTML · CSS
-- 🧠 **Sharpening skills on:** Codeforces · LeetCode · Beecrowd
-- 🎯 **Actively seeking:** Internship opportunities in Software / Full-Stack / AI Engineering
-- 🌐 **Portfolio:** [sami.bornosoftnr.com](https://sami.bornosoftnr.com/)
+# 🛠 Featured Projects
+| 🚀 Project | 🌐 Live Demo |
+|------------|--------------|
+| 🤖 Doctor's AI Assistant | https://doctor-s-ai-assistant.vercel.app |
+| 🏥 CareSync Hospital Management | https://care-sync-hospital-c69f.vercel.app |
+| 🍽 Restaurant Management System | https://sami21-lgtm.github.io/Sami-s-restaurant/ |
+| 🏥 Modern Hospital Management | https://sami21-lgtm.github.io/modern-hospital-management-system/ |
+| 📡 Radar System | https://sami21-lgtm.github.io/New-rader-system/ |
+| 📻 Tactical Ham Radio | https://sami21-lgtm.github.io/Tactical-Ham-radio-system/ |
+| 🌦 Weather Forecast | https://sami21-lgtm.github.io/weather-forecast/ |
+| 🌆 Cyberpunk Future City | https://sami21-lgtm.github.io/Cyberpunk-Future-City/ |
+| 🎨 ADOR Portfolio | https://sami21-lgtm.github.io/ADOR-portfolio/ |
+| 📄 Lab Report PDF Generator | https://sami21-lgtm.github.io/Lab-Report-PDF-Generator/ |
+| 🏨 Family Hotel Reservation | https://sami21-lgtm.github.io/Family-Hotel/ |
 
 ---
 
-## ⚙️ Tech Stack
-
-<img src="https://skillicons.dev/icons?i=html,css,js,nodejs,react,mongodb,git,github,vscode,figma" />
-
----
-
-## 📈 GitHub Stats
-
-<div align="center">
-
-![Emtiaz's GitHub stats](https://github-stats-extended.vercel.app/api?username=sami21-lgtm&show_icons=true&theme=tokyonight)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sami21-lgtm&theme=tokyonight)
-![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=sami21-lgtm&layout=compact&theme=tokyonight)
-
-</div>
-
----
-
-## 🛠️ Featured Projects
-
-| Project | Live Demo |
-|---|---|
-| 🤖 **Doctor's AI Assistant** | [View Project](https://doctor-s-ai-assistant.vercel.app) |
-| 🍽️ **Restaurant Management System** | [View Project](https://sami21-lgtm.github.io/Sami-s-restaurant/) |
-| 🏥 **CareSync Hospital Management** | [View Project](https://care-sync-hospital-c69f.vercel.app) |
-| 🏥 **Modern Hospital Management System** | [View Project](https://sami21-lgtm.github.io/modern-hospital-management-system/) |
-| 📡 **Radar System** | [View Project](https://sami21-lgtm.github.io/New-rader-system/) |
-| 📻 **Tactical Ham Radio System** | [View Project](https://sami21-lgtm.github.io/Tactical-Ham-radio-system/) |
-| ⛅ **Weather Forecast App** | [View Project](https://sami21-lgtm.github.io/weather-forecast/) |
-| 🌆 **Cyberpunk Future City** | [View Project](https://sami21-lgtm.github.io/Cyberpunk-Future-City/) |
-| 🎨 **ADOR Design Portfolio** | [View Project](https://sami21-lgtm.github.io/ADOR-portfolio/) |
-| 📄 **Lab Report PDF Generator** | [View Project](https://sami21-lgtm.github.io/Lab-Report-PDF-Generator/) |
-| 🏨 **Family Hotel Reservation System** | [View Project](https://sami21-lgtm.github.io/Family-Hotel/) |
+# ⭐ More Projects
 
 <details>
-<summary>🔎 More Projects & Experiments (57 additional repositories — click to expand)</summary>
 
-**AI / Chatbot Variants**
-- [Sami's AI](https://sami-s-ai.vercel.app)
-- [Doctor AI Chatbot](https://sami-doctor-ai-chatbot.vercel.app)
-- [Doctor AI Assistant (alt build)](https://sami21-lgtm.github.io/-Doctor-AI-Assistant/)
+<summary>🔥 Click to View All Projects</summary>
 
-**Management Systems (iterations & practice builds)**
-- [Hospital Management System](https://github.com/sami21-lgtm/hospital-management-system)
-- [Hotel Management System](https://github.com/sami21-lgtm/Hotel-Management-system)
-- [Hostel Management System](https://github.com/sami21-lgtm/Hostel-Management-System)
-- [Bank Management System](https://github.com/sami21-lgtm/Bank-Management-system)
-- [Clinic Management System](https://github.com/sami21-lgtm/Clinic-Management-System)
-- [Guest House AquaStay](https://github.com/sami21-lgtm/-Guest-House-AquaStay)
-- [Ma-Baba's Restaurant](https://sami21-lgtm.github.io/Ma-Baba-s-Restaurant/)
+### 🤖 AI Projects
 
-**Radio & Radar**
-- [Ham Radio Live](https://github.com/sami21-lgtm/Ham-Radio-Live)
-- [World Radio League](https://github.com/sami21-lgtm/World-Radio-League)
-- [Radar System (early build)](https://github.com/sami21-lgtm/radar-system)
+- Doctor AI Assistant
+- Sami's AI
+- Doctor AI Chatbot
 
-**Portfolio & Portal Builds**
-- [Md. Emtiaz Hossain Sami — Portfolio](https://github.com/sami21-lgtm/Md.-Emtiaz-Hossain-Sami-Portfolio)
-- [Md. Emtiaz Hossain Sami](https://github.com/sami21-lgtm/Md.-Emtiaz-Hossain-Sami)
-- [RADOR Portfolio](https://github.com/sami21-lgtm/RADOR-Portfolio)
-- [Own Portal](https://github.com/sami21-lgtm/Own-portal)
-- [Making Portal](https://github.com/sami21-lgtm/making-portal)
-- [Making My Portal](https://github.com/sami21-lgtm/Making-my-portal)
-- [Animated Portal Making](https://github.com/sami21-lgtm/animated-portal-making)
-- [Creative Portal Making](https://github.com/sami21-lgtm/creative-portal-making)
-- [Creative Portal](https://github.com/sami21-lgtm/Creative-Portal)
-- [Portal](https://github.com/sami21-lgtm/Portal)
-- [Anime Portal](https://github.com/sami21-lgtm/anime-portal)
-- [Making My Website](https://github.com/sami21-lgtm/Making-my-website)
+### 🏥 Management Systems
 
-**UI / CSS Practice & Animations**
-- [3D Hover Avengers Card](https://github.com/sami21-lgtm/3D-Hover-Avengers-Card)
-- [Rotating Glowing Earth](https://github.com/sami21-lgtm/Rotating-Glowing-Earth-)
-- [Dynamic Island](https://github.com/sami21-lgtm/Dynamic-Island)
-- [Fly Cart](https://github.com/sami21-lgtm/Fly-Cart)
-- [Banner Text Attractive](https://github.com/sami21-lgtm/Banner-text-attractive)
-- [Banner Text](https://github.com/sami21-lgtm/Banner-text)
-- [Sprite](https://github.com/sami21-lgtm/Sprite)
-- [Tesla Car (updated version)](https://github.com/sami21-lgtm/Tesla-Car-updated-version)
-- [3D Flip Card](https://github.com/sami21-lgtm/3d-flip-card)
-- [House Build Game](https://github.com/sami21-lgtm/House-build-game)
-- [Joystick Prize](https://github.com/sami21-lgtm/joyostick-prize)
-- [Creative Animated Travel Slider](https://github.com/sami21-lgtm/creative-animated-travel-slidder)
-- [Animated Travel Slider](https://github.com/sami21-lgtm/Animated-travel-slider)
-- [Creating Animated Travel Slider](https://github.com/sami21-lgtm/creating-animated-travel-slider)
-- [Animated Water Login](https://github.com/sami21-lgtm/Animated-water-login)
-- [Drum Kit](https://github.com/sami21-lgtm/drum)
-- [Pepsi Logo Recreation](https://github.com/sami21-lgtm/pepsi-logo-creating)
-- [Numerical Clock](https://github.com/sami21-lgtm/Numerical-Clock)
-- [Liquid Button](https://github.com/sami21-lgtm/liquid-button)
-- [Space Explorer](https://github.com/sami21-lgtm/Space-explorer)
-- [Glass Effect Login](https://github.com/sami21-lgtm/glasseffect-login)
-- [Car Games](https://github.com/sami21-lgtm/car-games...)
+- Hospital Management
+- Hotel Management
+- Hostel Management
+- Bank Management
+- Clinic Management
+- Guest House AquaStay
 
-**Festive & Greeting Pages**
-- [Eid-ul-Adha Eid Card](https://github.com/sami21-lgtm/Eid-el-adha-eid-card)
-- [Eid Card](https://github.com/sami21-lgtm/eid-card)
-- [Eid-ul-Adha Mubarak Card](https://github.com/sami21-lgtm/eid.ul.adha-mubarak-card)
-- [Birthday Page](https://github.com/sami21-lgtm/birthday)
-- [Pahela Baishakh](https://sami21-lgtm.github.io/Pahela-Baishakh/)
-- [Barcode](https://github.com/sami21-lgtm/barcode)
+### 🎨 UI / CSS Projects
 
-**Utilities & Misc**
-- [Expense Tracker](https://github.com/sami21-lgtm/expense-tracker)
-- [Weather Checking](https://github.com/sami21-lgtm/Weather-checking)
-- [Lab Report PDF Generator (DIU build)](https://github.com/sami21-lgtm/diu-lab-report-pdf-generator)
-- [Making Assignment PDF Portal](https://github.com/sami21-lgtm/making-assignment-pdf-portal)
+- Dynamic Island
+- Rotating Earth
+- 3D Hover Card
+- Animated Travel Slider
+- Glass Login
+- Tesla Car
+- Liquid Button
+- Drum Kit
+- Pepsi Logo
+- Space Explorer
+- Numerical Clock
+- Fly Cart
+
+### 🌐 Portfolio Projects
+
+- Personal Portfolio
+- Own Portal
+- Creative Portal
+- Anime Portal
+- Making Website
+
+### 🎉 Others
+
+- Expense Tracker
+- Weather Checking
+- Birthday Website
+- Eid Cards
+- Barcode Generator
+- Assignment PDF Portal
 
 </details>
 
-<div align="center">
+---
 
-[![View All Repositories](https://img.shields.io/badge/View_All_Repositories-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sami21-lgtm?tab=repositories)
+# 🧠 Competitive Programming
 
-</div>
+<p align="center">
+
+<a href="https://codeforces.com/profile/samiemtiaz008">
+<img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/u/bqIihi9kCO/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+<a href="https://judge.beecrowd.com/en/profile/1089506">
+<img src="https://img.shields.io/badge/Beecrowd-Profile-1A5276?style=for-the-badge"/>
+</a>
+
+</p>
 
 ---
 
-## 🧩 Competitive Programming
+# 📜 Certifications
 
-<div align="center">
+🏅 Foundation of Cybersecurity — Coursera
 
-[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/samiemtiaz008)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/bqIihi9kCO/)
-[![Beecrowd](https://img.shields.io/badge/Beecrowd-Profile-1A5276?style=for-the-badge)](https://judge.beecrowd.com/en/profile/1089506)
+🏅 Operating Systems and You — Coursera
 
-</div>
+🏅 C Programming Language — 10 Minute School
 
----
+🏅 Cyber Hygiene
 
-## 📜 Certifications
-
-- **Foundation of Cybersecurity** — Coursera (Apr 2026) → [View Certificate](https://www.coursera.org/account/accomplishments/certificate/WARAL2XWLWDR)
-- **Operating Systems and You: Becoming a Power User** — Coursera (May 2026) → [View Certificate](https://www.coursera.org/account/accomplishments/certificate/X9G02O61Q3QL)
-- **C Programming Language** — 10 Minute School (Jul 2025) → [View Certificate](https://10minuteschool.com/certificate/6874c04fcc117)
-- **Cyber Hygiene** (Jul 2025) → [View Certificate](https://sf-cyber-sochetonota.s3.ap-southeast-1.amazonaws.com/public/course/certificate/md_emtiaz_hossain_sami_cyber_hygiene_53943.pdf)
-- **Communication Hacks** — 10 Minute School (May 2026) → [View Certificate](https://10minuteschool.com/certificate/6a12822649b55)
+🏅 Communication Hacks
 
 ---
 
-## 📫 Connect With Me
+# 📚 Currently Learning
 
-<div align="center">
+```text
+✔ React.js
+✔ Node.js
+✔ Express.js
+✔ MongoDB
+✔ REST API
+✔ Git & GitHub
+✔ AI Engineering
+✔ Machine Learning Basics
+```
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samiemtiaz38@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://sami.bornosoftnr.com/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sami21-lgtm)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emtiaz-hossain-6b4416340/)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/emtiaz.hossain.2478)
+---
 
-</div>
+# 🎯 2026 Goals
+
+- 🌟 100+ GitHub Repositories
+- 🚀 50+ Live Projects
+- 💼 Software Engineering Internship
+- ⭐ 1000+ GitHub Followers
+- 🤖 AI SaaS Projects
+- 🌍 Open Source Contributions
+
+---
+
+# 💡 Random Dev Quote
+
+> "First, solve the problem. Then, write the code."
+>
+> — John Johnson
+> ---
+
+# 📫 Connect With Me
+
+<p align="center">
+
+<a href="mailto:samiemtiaz38@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/emtiaz-hossain-6b4416340/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/sami21-lgtm">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.facebook.com/emtiaz.hossain.2478">
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+</a>
+
+<a href="https://sami.bornosoftnr.com/">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+# 💻 Coding Activity
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=sami21-lgtm&theme=tokyonight"/>
+
+</p>
+
+> **Note:** যদি WakaTime ব্যবহার না করো, এই সেকশনটি বাদ দাও।
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/sami21-lgtm/sami21-lgtm/output/github-contribution-grid-snake-dark.svg"/>
+
+</p>
+
+> **এই Snake Animation চালাতে GitHub Actions সেটআপ করতে হবে।**
+
+---
+
+# ⚡ Fun Facts
+
+```text
+💻 I love building web applications.
+🤖 AI is my favorite field.
+🌱 Every day I learn something new.
+☕ Coffee + Code = Productivity.
+🚀 Dream Company: Google | Microsoft | OpenAI
+```
+
+---
+
+# ❤️ Support My Work
+
+<p align="center">
+
+<a href="https://github.com/sami21-lgtm?tab=repositories">
+
+<img src="https://img.shields.io/badge/⭐ Star My Repositories-FFD700?style=for-the-badge"/>
+
+</a>
+
+<a href="https://github.com/sami21-lgtm">
+
+<img src="https://img.shields.io/badge/👀 Follow Me-181717?style=for-the-badge"/>
+
+</a>
+
+</p>
+
+---
+
+# ✨ Quote of the Day
+
+<p align="center">
+
+> **"Code. Learn. Build. Repeat."**
+
+</p>
+
+---
+
+<p align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+
+</p>
+
+<p align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&center=true&width=700&lines=Happy+Coding!;Thanks+for+visiting!;Let's+Build+Something+Amazing!;See+You+Again!"/>
+
+</p>
