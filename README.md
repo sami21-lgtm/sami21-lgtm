@@ -24,17 +24,7 @@ I'm Md. Emtiaz Hossain Sami
 
 ---
 
-<p align="center">
 
-![](https://komarev.com/ghpvc/?username=sami21-lgtm&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge)
-
-![](https://img.shields.io/github/followers/sami21-lgtm?logo=github&style=for-the-badge)
-
-![](https://img.shields.io/github/stars/sami21-lgtm?style=for-the-badge)
-
-![](https://img.shields.io/github/last-commit/sami21-lgtm/sami21-lgtm?style=for-the-badge)
-
-</p>
 
 ---
 
