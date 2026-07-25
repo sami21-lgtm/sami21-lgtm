@@ -168,7 +168,7 @@ I'm Md. Emtiaz Hossain Sami
 ## 💻 Developer Terminal
 
 ```bash
-> whoami
+> sami21-lgtm
 
 👤 Md. Emtiaz Hossain Sami
 
