@@ -1,6 +1,6 @@
 
 
- <div align = "centre"># Hi there 👋, I'm Md. Emtiaz Hossain Sami
+# Hi there 👋, I'm Md. Emtiaz Hossain Sami
 
 <img src="assets/sami-profile-photo.jpg" width="180" style="border-radius:50%;" alt="Emtiaz Hossain Sami" />
 
