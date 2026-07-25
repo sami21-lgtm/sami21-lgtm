@@ -70,14 +70,29 @@ I'm Md. Emtiaz Hossain Sami
 
 # 📊 GitHub Analytics
 
-<p align="center">
+<div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=sami21-lgtm&show_icons=true&theme=tokyonight"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=sami21-lgtm&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&rank_icon=github"/>
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=sami21-lgtm&theme=tokyonight"/>
+<img width="49%" src="https://streak-stats.demolab.com?user=sami21-lgtm&theme=tokyonight&hide_border=true&border_radius=12"/>
 
-</p>
+</div>
 
+<br>
+
+<div align="center">
+
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sami21-lgtm&layout=compact&theme=tokyonight&hide_border=true&border_radius=12"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=sami21-lgtm&theme=tokyo-night&hide_border=true"/>
+
+</div>
 ---
 
 # 📈 Contribution Graph
