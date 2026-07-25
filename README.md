@@ -96,71 +96,125 @@ I'm Md. Emtiaz Hossain Sami
 
 ---
 
-# ⚡ Current Status
+<!-- ========================================================== -->
+<!--                 ⚡ DEVELOPER OPERATING SYSTEM               -->
+<!-- ========================================================== -->
 
-<table>
-<tr>
-<td>👤 <b>Name</b></td>
-<td><b>Md. Emtiaz Hossain Sami</b></td>
-</tr>
+<h2 align="center">⚡ Developer Operating System v2026</h2>
 
-<tr>
-<td>🎓 <b>Education</b></td>
-<td>B.Sc. in Software Engineering</td>
-</tr>
+<p align="center">
 
-<tr>
-<td>🏛️ <b>University</b></td>
-<td>Daffodil International University</td>
-</tr>
+<img src="https://img.shields.io/badge/STATUS-ONLINE-00C853?style=for-the-badge&logo=statuspage&logoColor=white"/>
 
-<tr>
-<td>🌍 <b>Location</b></td>
-<td>Bangladesh 🇧🇩</td>
-</tr>
+<img src="https://img.shields.io/badge/MODE-BUILDING-2962FF?style=for-the-badge"/>
 
-<tr>
-<td>💼 <b>Role</b></td>
-<td>Software Engineering Student</td>
-</tr>
+<img src="https://img.shields.io/badge/COFFEE-READY-6D4C41?style=for-the-badge&logo=buymeacoffee&logoColor=white"/>
 
-<tr>
-<td>🚀 <b>Focus</b></td>
-<td>Full Stack Development & AI Engineering</td>
-</tr>
+<img src="https://img.shields.io/badge/BUGS-FIXING-red?style=for-the-badge"/>
 
-<tr>
-<td>💻 <b>Languages</b></td>
-<td>C • C++ • JavaScript</td>
-</tr>
+</p>
 
-<tr>
-<td>🎨 <b>Frontend</b></td>
-<td>HTML • CSS • React</td>
-</tr>
+---
 
-<tr>
-<td>⚙️ <b>Backend</b></td>
-<td>Node.js • Express.js</td>
-</tr>
+<div align="center">
 
-<tr>
-<td>🗄️ <b>Database</b></td>
-<td>MongoDB</td>
-</tr>
+| 🧑‍💻 Profile | 📌 Details |
+|:------------|:-----------|
+| 👤 **Name** | **Md. Emtiaz Hossain Sami** |
+| 🎓 **Degree** | B.Sc. in Software Engineering |
+| 🏛️ **University** | Daffodil International University |
+| 🌍 **Country** | Bangladesh 🇧🇩 |
+| 💼 **Role** | Full Stack Developer |
+| 🤖 **Interest** | Artificial Intelligence |
+| 🚀 **Focus** | Modern Web Development |
+| 💻 **Languages** | C • C++ • JavaScript |
+| ⚛️ **Frontend** | HTML • CSS • React |
+| ⚙️ **Backend** | Node.js • Express.js |
+| 🍃 **Database** | MongoDB |
+| 🛠️ **Tools** | Git • GitHub • VS Code • Figma |
+| 📈 **Availability** | 🟢 Open to Internship Opportunities |
 
-<tr>
-<td>🛠️ <b>Tools</b></td>
-<td>Git • GitHub • VS Code • Figma</td>
-</tr>
+</div>
 
-<tr>
-<td>📈 <b>Status</b></td>
-<td>🟢 Open to Software Engineering Internship Opportunities</td>
-</tr>
+---
 
-</table>
+## 🚀 Current Mission
 
+```text
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🟢 Building Production-Ready Projects
+
+🟢 Mastering React Ecosystem
+
+🟢 Exploring AI Engineering
+
+🟢 Improving Problem Solving
+
+🟢 Contributing to Open Source
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+```
+
+---
+
+## 📊 Skill Matrix
+
+| Technology | Proficiency |
+|------------|:-----------:|
+| 🌐 HTML | 🟩🟩🟩🟩🟩 |
+| 🎨 CSS | 🟩🟩🟩🟩🟩 |
+| ⚡ JavaScript | 🟩🟩🟩🟩🟩 |
+| ⚛️ React.js | 🟩🟩🟩⬜⬜ |
+| 🟢 Node.js | 🟩🟩🟩⬜⬜ |
+| 🚀 Express.js | 🟩🟩🟩⬜⬜ |
+| 🍃 MongoDB | 🟩🟩🟩⬜⬜ |
+| 🤖 AI Engineering | 🟩🟩🟩🟩🟩 |
+---
+
+## 💻 Developer Terminal
+
+```bash
+> whoami
+
+👤 Md. Emtiaz Hossain Sami
+
+> current_status
+
+🟢 Available for Software Engineering Internship
+
+> current_focus
+
+✔ Full Stack Development
+✔ Artificial Intelligence
+✔ Clean Code
+✔ Modern UI/UX
+✔ Scalable Backend Systems
+
+> life_goal
+
+🚀 Build software that impacts millions of people.
+```
+
+---
+
+<div align="center">
+
+## ⚡ 2026 Objectives
+
+🎯 Software Engineering Internship
+
+🚀 Build 50+ Production Projects
+
+🤖 AI-Powered Web Applications
+
+🌍 Open Source Contributions
+
+📚 Continuous Learning
+
+💼 Launch Professional Career
+
+</div>
 ---
 
 # 🛠 Featured Projects
