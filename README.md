@@ -40,22 +40,23 @@ I'm Md. Emtiaz Hossain Sami
 
 🚀 Love creating beautiful UI/UX with scalable backend systems
 
-🌱 Currently Learning
+## 🚀 Current Focus
 
-- React.js
-- Node.js
-- Express.js
-- MongoDB
-- AI Integration
-
-🎯 2026 Goals
-
-- Get a Software Engineering Internship
-- Become a Full Stack Engineer
-- Contribute to Open Source
-- Build AI Products
+- ⚛️ Developing scalable web applications with **React.js**
+- 🛠️ Building robust backend services using **Node.js** & **Express.js**
+- 🗄️ Working with **MongoDB** for modern database solutions
+- 🤖 Exploring practical applications of **Artificial Intelligence**
+- 📈 Continuously improving problem-solving, system design, and software engineering skills
 
 ---
+
+## 🎯 Career Objectives
+
+- 💼 Secure a Software Engineering Internship
+- 🚀 Build production-ready Full-Stack applications
+- 🌍 Contribute to open-source communities
+- 🤖 Create AI-driven software solutions
+- 📚 Continuously learn and adopt modern technologies
 
 # 🚀 Tech Stack
 
