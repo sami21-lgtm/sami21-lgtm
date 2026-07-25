@@ -312,28 +312,6 @@ Status     : Open to Internship Opportunities
 
 ---
 
-# 💻 Coding Activity
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=sami21-lgtm&theme=tokyonight"/>
-
-</p>
-
-> **Note:** যদি WakaTime ব্যবহার না করো, এই সেকশনটি বাদ দাও।
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/sami21-lgtm/sami21-lgtm/output/github-contribution-grid-snake-dark.svg"/>
-
-</p>
-
-> **এই Snake Animation চালাতে GitHub Actions সেটআপ করতে হবে।**
-
 ---
 
 # ⚡ Fun Facts
