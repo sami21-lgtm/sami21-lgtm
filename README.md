@@ -223,16 +223,20 @@ Status     : Open to Internship Opportunities
 
 # 📜 Certifications
 
-🏅 Foundation of Cybersecurity — Coursera (Apr 2026) → View Certificate
+🏅 **Foundation of Cybersecurity** — Coursera *(Apr 2026)*  
+[![Certificate](https://img.shields.io/badge/View-Certificate-blue?style=for-the-badge&logo=coursera)](https://www.coursera.org/account/accomplishments/certificate/WARAL2XWLWDR)
 
-🏅 Operating Systems and You: Becoming a Power User — Coursera (May 2026) → View Certificate
+🏅 **Operating Systems and You: Becoming a Power User** — Coursera *(May 2026)*  
+[![Certificate](https://img.shields.io/badge/View-Certificate-blue?style=for-the-badge&logo=coursera)](https://www.coursera.org/account/accomplishments/certificate/X9G02O61Q3QL)
 
-🏅 C Programming Language — 10 Minute School (Jul 2025) → View Certificate
+🏅 **C Programming Language** — 10 Minute School *(Jul 2025)*  
+[![Certificate](https://img.shields.io/badge/View-Certificate-green?style=for-the-badge)](https://10minuteschool.com/certificate/6874c04fcc117)
 
-🏅 Cyber Hygiene (Jul 2025) → View Certificate
+🏅 **Cyber Hygiene** *(Jul 2025)*  
+[![Certificate](https://img.shields.io/badge/View-Certificate-success?style=for-the-badge)](https://sf-cyber-sochetonota.s3.ap-southeast-1.amazonaws.com/public/course/certificate/md_emtiaz_hossain_sami_cyber_hygiene_53943.pdf)
 
-🏅 Communication Hacks — 10 Minute School (May 2026) → View Certificate
-
+🏅 **Communication Hacks** — 10 Minute School *(May 2026)*  
+[![Certificate](https://img.shields.io/badge/View-Certificate-green?style=for-the-badge)](https://10minuteschool.com/certificate/6a12822649b55)
 ---
 
 # 📚 Currently Learning
