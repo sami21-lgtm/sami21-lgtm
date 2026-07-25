@@ -76,7 +76,6 @@ I'm Md. Emtiaz Hossain Sami
 
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=sami21-lgtm&theme=tokyonight"/>
 
-</p>
 
 
 </p>
