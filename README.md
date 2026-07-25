@@ -115,7 +115,7 @@ Frontend  : HTML | CSS | React
 
 Backend   : Node.js | Express
 
-Database  : MongoDB
+Database  : MongoDB,Xampp
 
 Tools      : Git | GitHub | VS Code | Figma
 
