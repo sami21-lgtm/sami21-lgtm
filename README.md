@@ -6,11 +6,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Md.%20Emtiaz%20Hossain%20Sami&fontSize=48&fontAlignY=40&desc=Software%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20AI%20Enthusiast&descAlignY=60&animation=fadeIn"/>
 </p>
 
-<h1 align="center">
-Hi There
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
-I'm Md. Emtiaz Hossain Sami
-</h1>
+
 
 <h3 align="center">
 🚀 Software Engineering Student • Full Stack Developer • AI Enthusiast
