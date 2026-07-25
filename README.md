@@ -252,59 +252,112 @@ I'm Md. Emtiaz Hossain Sami
 
 <details>
 
-<summary>🔥 Click to View All Projects</summary>
+<details>
+<summary><b>📂 Click to Explore All Projects</b></summary>
+
+<br>
 
 ### 🤖 AI Projects
 
-- Doctor AI Assistant
-- Sami's AI
-- Doctor AI Chatbot
-
-### 🏥 Management Systems
-
-- Hospital Management
-- Hotel Management
-- Hostel Management
-- Bank Management
-- Clinic Management
-- Guest House AquaStay
-
-### 🎨 UI / CSS Projects
-
-- Dynamic Island
-- Rotating Earth
-- 3D Hover Card
-- Animated Travel Slider
-- Glass Login
-- Tesla Car
-- Liquid Button
-- Drum Kit
-- Pepsi Logo
-- Space Explorer
-- Numerical Clock
-- Fly Cart
-
-### 🌐 Portfolio Projects
-
-- Personal Portfolio
-- Own Portal
-- Creative Portal
-- Anime Portal
-- Making Website
-
-### 🎉 Others
-
-- Expense Tracker
-- Weather Checking
-- Birthday Website
-- Eid Cards
-- Barcode Generator
-- Assignment PDF Portal
-
-</details>
+- [Sami's AI](https://sami-s-ai.vercel.app)
+- [Doctor AI Chatbot](https://sami-doctor-ai-chatbot.vercel.app)
+- [Doctor AI Assistant](https://sami21-lgtm.github.io/-Doctor-AI-Assistant/)
 
 ---
 
+### 🏥 Management Systems
+
+- [Hospital Management System](https://github.com/sami21-lgtm/hospital-management-system)
+- [Hotel Management System](https://github.com/sami21-lgtm/Hotel-Management-system)
+- [Hostel Management System](https://github.com/sami21-lgtm/Hostel-Management-System)
+- [Bank Management System](https://github.com/sami21-lgtm/Bank-Management-system)
+- [Clinic Management System](https://github.com/sami21-lgtm/Clinic-Management-System)
+- [Guest House AquaStay](https://github.com/sami21-lgtm/-Guest-House-AquaStay)
+- [Ma-Baba's Restaurant](https://sami21-lgtm.github.io/Ma-Baba-s-Restaurant/)
+
+---
+
+### 📡 Radio & Radar
+
+- [Ham Radio Live](https://github.com/sami21-lgtm/Ham-Radio-Live)
+- [World Radio League](https://github.com/sami21-lgtm/World-Radio-League)
+- [Radar System](https://github.com/sami21-lgtm/radar-system)
+
+---
+
+### 🌐 Portfolio & Web Portals
+
+- [Portfolio](https://github.com/sami21-lgtm/Md.-Emtiaz-Hossain-Sami-Portfolio)
+- [Personal Profile](https://github.com/sami21-lgtm/Md.-Emtiaz-Hossain-Sami)
+- [RADOR Portfolio](https://github.com/sami21-lgtm/RADOR-Portfolio)
+- [Own Portal](https://github.com/sami21-lgtm/Own-portal)
+- [Making Portal](https://github.com/sami21-lgtm/making-portal)
+- [Making My Portal](https://github.com/sami21-lgtm/Making-my-portal)
+- [Animated Portal Making](https://github.com/sami21-lgtm/animated-portal-making)
+- [Creative Portal Making](https://github.com/sami21-lgtm/creative-portal-making)
+- [Creative Portal](https://github.com/sami21-lgtm/Creative-Portal)
+- [Portal](https://github.com/sami21-lgtm/Portal)
+- [Anime Portal](https://github.com/sami21-lgtm/anime-portal)
+- [Making My Website](https://github.com/sami21-lgtm/Making-my-website)
+
+---
+
+### 🎨 UI / CSS / JavaScript
+
+- [3D Hover Avengers Card](https://github.com/sami21-lgtm/3D-Hover-Avengers-Card)
+- [Rotating Glowing Earth](https://github.com/sami21-lgtm/Rotating-Glowing-Earth-)
+- [Dynamic Island](https://github.com/sami21-lgtm/Dynamic-Island)
+- [Fly Cart](https://github.com/sami21-lgtm/Fly-Cart)
+- [Banner Text Attractive](https://github.com/sami21-lgtm/Banner-text-attractive)
+- [Banner Text](https://github.com/sami21-lgtm/Banner-text)
+- [Sprite Animation](https://github.com/sami21-lgtm/Sprite)
+- [Tesla Car](https://github.com/sami21-lgtm/Tesla-Car-updated-version)
+- [3D Flip Card](https://github.com/sami21-lgtm/3d-flip-card)
+- [House Build Game](https://github.com/sami21-lgtm/House-build-game)
+- [Joystick Prize](https://github.com/sami21-lgtm/joyostick-prize)
+- [Creative Animated Travel Slider](https://github.com/sami21-lgtm/creative-animated-travel-slidder)
+- [Animated Travel Slider](https://github.com/sami21-lgtm/Animated-travel-slider)
+- [Creating Animated Travel Slider](https://github.com/sami21-lgtm/creating-animated-travel-slider)
+- [Animated Water Login](https://github.com/sami21-lgtm/Animated-water-login)
+- [Drum Kit](https://github.com/sami21-lgtm/drum)
+- [Pepsi Logo Recreation](https://github.com/sami21-lgtm/pepsi-logo-creating)
+- [Numerical Clock](https://github.com/sami21-lgtm/Numerical-Clock)
+- [Liquid Button](https://github.com/sami21-lgtm/liquid-button)
+- [Space Explorer](https://github.com/sami21-lgtm/Space-explorer)
+- [Glass Effect Login](https://github.com/sami21-lgtm/glasseffect-login)
+- [Car Games](https://github.com/sami21-lgtm/car-games)
+
+---
+
+### 🎉 Greeting & Creative Pages
+
+- [Eid-ul-Adha Card](https://github.com/sami21-lgtm/Eid-el-adha-eid-card)
+- [Eid Card](https://github.com/sami21-lgtm/eid-card)
+- [Eid-ul-Adha Mubarak](https://github.com/sami21-lgtm/eid.ul.adha-mubarak-card)
+- [Birthday Page](https://github.com/sami21-lgtm/birthday)
+- [Pahela Baishakh](https://sami21-lgtm.github.io/Pahela-Baishakh/)
+- [Barcode Generator](https://github.com/sami21-lgtm/barcode)
+
+---
+
+### 🛠️ Utilities
+
+- [Expense Tracker](https://github.com/sami21-lgtm/expense-tracker)
+- [Weather Checking](https://github.com/sami21-lgtm/Weather-checking)
+- [DIU Lab Report PDF Generator](https://github.com/sami21-lgtm/diu-lab-report-pdf-generator)
+- [Assignment PDF Portal](https://github.com/sami21-lgtm/making-assignment-pdf-portal)
+
+</details>
+
+<br>
+
+<div align="center">
+
+<a href="https://github.com/sami21-lgtm?tab=repositories">
+<img src="https://img.shields.io/badge/🔍_Explore_All_Repositories-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
 # 🧠 Competitive Programming
 
 <p align="center">
