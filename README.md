@@ -1,20 +1,19 @@
-<div align="center">
 
-<!-- Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:8A2BE2&height=200&section=header&text=Hi%20there%20👋%20I'm%20Md.%20Emtiaz%20Hossain%20Sami&fontSize=26&fontColor=ffffff&fontAlign=50&fontAlignY=35" alt="Md. Emtiaz Hossain Sami Banner" />
 
-<br/>
+ <div align = "centre"># Hi there 👋, I'm Md. Emtiaz Hossain Sami
 
 <img src="assets/sami-profile-photo.jpg" width="180" style="border-radius:50%;" alt="Emtiaz Hossain Sami" />
-
-<br/><br/>
 
 <img src="https://readme-typing-svg.demolab.com/?lines=Full+Stack+Developer;AI+Engineering+Enthusiast;Building+Scalable+Web+Solutions&font=Fira+Code&center=true&width=480&height=45&color=36BCF7&vCenter=true&size=22" />
 
 </div>
 
+---
+
 ```bash
 sami@github:~$ whoami
+```
+```yaml
 Name     : Md. Emtiaz Hossain Sami
 Role     : Software Engineering Student @ Daffodil International University
 Focus    : Full-Stack Development + AI Engineering
@@ -30,6 +29,9 @@ Highlights
 > 11+ live projects shipped & deployed
 > Active on Codeforces, LeetCode & Beecrowd
 > 5 professional certifications completed
+```
+
+---
 
 ## 🚀 About Me
 
