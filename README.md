@@ -9,7 +9,6 @@
 </div>
 
 ---
-
 ```bash
 sami@github:~$ sami21-lgtm
 ```
@@ -18,18 +17,17 @@ Name     : Md. Emtiaz Hossain Sami
 Role     : Software Engineering Student @ Daffodil International University
 Focus    : Full-Stack Development + AI Engineering
 Status   : Actively seeking internship opportunities
- 
+
 Stack
 Frontend : HTML, CSS, JavaScript, React
 Backend  : Node.js, Express, MongoDB
 Languages: C, C++, JavaScript
 Tools    : Git, GitHub, VS Code, Figma
- 
+
 Highlights
 > 11+ live projects shipped & deployed
 > Active on Codeforces, LeetCode & Beecrowd
 > 5 professional certifications completed
-```rofessional certifications completed
 ```
 
 ## 🚀 About Me
