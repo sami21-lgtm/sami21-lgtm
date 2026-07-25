@@ -3,27 +3,6 @@
 # Hi there 👋, I'm Md. Emtiaz Hossain Sami
 
 
-<b>Name     :</b> Md. Emtiaz Hossain Sami
-<b>Role     :</b> Software Engineering Student @ DIU
-<b>Focus    :</b> Full-Stack Development + AI Engineering
-<b>Status   :</b> Actively seeking internship opportunities
-
-<b>[Stack]</b>
-• <b>Frontend :</b> HTML, CSS, JavaScript, React
-• <b>Backend  :</b> Node.js, Express, MongoDB
-• <b>Languages:</b> C, C++, JavaScript
-• <b>Tools    :</b> Git, GitHub, VS Code, Figma
-
-<b>[Highlights]</b>
-> 11+ live projects shipped & deployed
-> Active on Codeforces, LeetCode & Beecrowd
-> 5 professional certifications completed
-</pre>
-    </td>
-  </tr>
-</table>
-
----
 
 ## 🚀 About Me
 
