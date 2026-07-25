@@ -214,6 +214,7 @@ I'm Md. Emtiaz Hossain Sami
 
 <div align="center">
 
+
 ## ⚡ 2026 Objectives
 
 🎯 Software Engineering Internship
@@ -229,7 +230,7 @@ I'm Md. Emtiaz Hossain Sami
 💼 Launch Professional Career
 
 </div>
----
+
 
 # 🛠 Featured Projects
 | 🚀 Project | 🌐 Live Demo |
@@ -376,7 +377,7 @@ I'm Md. Emtiaz Hossain Sami
 
 </p>
 
----
+
 
 # 📜 Certifications
 
@@ -411,7 +412,7 @@ I'm Md. Emtiaz Hossain Sami
 ✔ Machine Learning Basics
 ```
 <br>
----
+
 
 # 🎯 2026 Goals
 
@@ -422,7 +423,7 @@ I'm Md. Emtiaz Hossain Sami
 - 🤖 AI SaaS Projects
 - 🌍 Open Source Contributions
 
----
+
 
 <br>
 
