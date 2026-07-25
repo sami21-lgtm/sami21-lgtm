@@ -396,6 +396,8 @@ I'm Md. Emtiaz Hossain Sami
 [![Certificate](https://img.shields.io/badge/View-Certificate-green?style=for-the-badge)](https://10minuteschool.com/certificate/6a12822649b55)
 ---
 
+<br>
+
 # 📚 Currently Learning
 
 ```text
@@ -408,7 +410,7 @@ I'm Md. Emtiaz Hossain Sami
 ✔ AI Engineering
 ✔ Machine Learning Basics
 ```
-
+<br>
 ---
 
 # 🎯 2026 Goals
@@ -421,6 +423,8 @@ I'm Md. Emtiaz Hossain Sami
 - 🌍 Open Source Contributions
 
 ---
+
+<br>
 
 # 💡 Random Dev Quote
 
@@ -458,6 +462,7 @@ I'm Md. Emtiaz Hossain Sami
 ---
 
 ---
+<br>
 
 # ⚡ Fun Facts
 
