@@ -96,13 +96,6 @@ I'm Md. Emtiaz Hossain Sami
 
 ---
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=sami21-lgtm&theme=tokyonight&column=4&margin-w=15&margin-h=15&no-frame=true"/>
-
-</p>
 
 ---
 
