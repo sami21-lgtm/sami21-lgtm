@@ -11,7 +11,7 @@
 ---
 
 ```bash
-sami@github:~$ whoami
+sami@github:~$ sami21-lgtm
 ```
 ```yaml
 Name     : Md. Emtiaz Hossain Sami
