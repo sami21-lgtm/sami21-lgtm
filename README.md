@@ -1,11 +1,11 @@
 <div align="center">
 
-<!-- Single Unified Colorful Header Banner -->
+<!-- Header Banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:8A2BE2&height=200&section=header&text=Hi%20there%20👋%20I'm%20Md.%20Emtiaz%20Hossain%20Sami&fontSize=26&fontColor=ffffff&fontAlign=50&fontAlignY=35" alt="Md. Emtiaz Hossain Sami Banner" />
 
 <br/>
 
-
+<img src="assets/sami-profile-photo.jpg" width="180" style="border-radius:50%;" alt="Emtiaz Hossain Sami" />
 
 <br/><br/>
 
@@ -30,7 +30,6 @@ Highlights
 > 11+ live projects shipped & deployed
 > Active on Codeforces, LeetCode & Beecrowd
 > 5 professional certifications completed
-
 
 ## 🚀 About Me
 
