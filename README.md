@@ -10,25 +10,26 @@
 
 ---
 
-```ansi
-[1;38;5;51msami@github[0m[38;5;244m:[0m[1;38;5;213m~[0m[38;5;244m$ [0m[1;38;5;255msami21-lgtm[0m
+```bash
+sami@github:~$ whoami
 ```
-```ansi
-[1;38;5;75mName    [0m[38;5;244m: [0mMd. Emtiaz Hossain Sami
-[1;38;5;75mRole    [0m[38;5;244m: [0mSoftware Engineering Student @ Daffodil International University
-[1;38;5;75mFocus   [0m[38;5;244m: [0mFull-Stack Development + AI Engineering
-[1;38;5;75mStatus  [0m[38;5;244m: [0mActively seeking internship opportunities
-
-[1;38;5;214mStack[0m
-[1;38;5;75mFrontend [0m[38;5;244m: [0mHTML, CSS, JavaScript, React
-[1;38;5;75mBackend  [0m[38;5;244m: [0mNode.js, Express, MongoDB
-[1;38;5;75mLanguages[0m[38;5;244m: [0mC, C++, JavaScript
-[1;38;5;75mTools    [0m[38;5;244m: [0mGit, GitHub, VS Code, Figma
-
-[1;38;5;214mHighlights[0m
-[1;38;5;121m>[0m [1;38;5;220m11+[0m live projects shipped & deployed
-[1;38;5;121m>[0m Active on Codeforces, LeetCode & Beecrowd
-[1;38;5;121m>[0m [1;38;5;220m5[0m professional certifications completed
+```yaml
+Name     : Md. Emtiaz Hossain Sami
+Role     : Software Engineering Student @ Daffodil International University
+Focus    : Full-Stack Development + AI Engineering
+Status   : Actively seeking internship opportunities
+ 
+Stack
+Frontend : HTML, CSS, JavaScript, React
+Backend  : Node.js, Express, MongoDB
+Languages: C, C++, JavaScript
+Tools    : Git, GitHub, VS Code, Figma
+ 
+Highlights
+> 11+ live projects shipped & deployed
+> Active on Codeforces, LeetCode & Beecrowd
+> 5 professional certifications completed
+```rofessional certifications completed
 ```
 
 ## 🚀 About Me
