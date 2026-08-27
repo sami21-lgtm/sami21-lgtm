@@ -92,11 +92,7 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/sami21-lgtm">
-    <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=sami21-lgtm&theme=tokyonight&hide_border=true&custom_title=GitHub%20Contribution%20Graph&area=true"/>
-  </a>
-</p>
+
 
 ---
 
@@ -190,3 +186,184 @@
 > life_goal
 
 🚀 Build software & hardware solutions that impact millions of people.
+## ⚡ 2026 Objectives
+
+| Objective | Target Goal |
+| :--- | :--- |
+| 🎯 **Software Engineering Internship** | Land a competitive developer position |
+| 🚀 **50+ Production Projects** | Deploy high-quality web applications |
+| 🤖 **AI-Powered Applications** | Build smart tools & automated systems |
+| 🌍 **Open Source Contributions** | Active involvement in open source repositories |
+| 📚 **Continuous Learning** | Advanced System Design & Scalable Cloud Technologies |
+| 💼 **Career Launch** | Transition smoothly into professional software engineering |
+
+---
+
+## 🛠 Featured Projects
+
+<div align="center">
+
+| 🚀 Project | 🌐 Live Demo / Repository |
+| :--- | :--- |
+| 🏥 **Modern Hospital Management** | [Live Demo](https://sami21-lgtm.github.io/modern-hospital-management-system/) |
+| 🏨 **Hotel Management System** | [Repository](https://github.com/sami21-lgtm/Hotel-Management-system) \| [Live Demo](https://sami21-lgtm.github.io/Hotel-Management-system/) |
+| 🏠 **Hostel Management System** | [Repository](https://github.com/sami21-lgtm/Hostel-Management-System) |
+| 📡 **New Radar System** | [Live Demo](https://sami21-lgtm.github.io/New-rader-system/) |
+| 🏝️ **Family Resort Portal** | [Live Demo](https://sami21-lgtm.github.io/Family-Resort/) |
+| 🎨 **Banner Text Attractive** | [Live Demo](https://sami21-lgtm.github.io/Banner-text-attractive/) |
+| 🎉 **Eid-ul-Adha Card** | [Live Demo](https://sami21-lgtm.github.io/Eid-el-adha-eid-card/) |
+| 🌸 **Pahela Baishakh Page** | [Live Demo](https://sami21-lgtm.github.io/Pahela-Baishakh/) |
+| 🌐 **Personal Own Portal** | [Live Demo](https://sami21-lgtm.github.io/Own-portal/) |
+
+</div>
+
+---
+
+## ⭐ More Projects
+
+### 🤖 AI Projects & Assistive Tools
+* Doctor AI Chatbot
+* Doctor AI Assistant
+* Sami's AI Assistant
+
+### 🏥 Management Systems & Portals
+* Hospital Management System
+* Hotel Management System
+* Hostel Management System
+* Bank Management System
+* Clinic Management System
+* Guest House AquaStay
+* Ma-Baba's Restaurant Management
+
+### 📡 Radio & Hardware Systems
+* Human Following Robot Prototype
+* Ham Radio Live
+* World Radio League
+* Radar System
+
+### 🎨 UI / CSS / Interactive JavaScript Experiments
+* 3D Hover Avengers Card
+* Rotating Glowing Earth
+* Dynamic Island Component
+* Fly Cart Interactive UI
+* Sprite Animation & 3D Flip Cards
+* Tesla Car Landing Preview
+* House Build Game & Joystick Prize
+* Creative Animated Travel Sliders
+* Animated Water Login & Glass Effect Login
+* Numerical Clock & Liquid Buttons
+* Space Explorer & Mini Car Games
+
+### 📄 Utilities & Portals
+* DIU Lab Report PDF Generator
+* Assignment PDF Portal
+* Expense Tracker & Weather Checking App
+
+---
+
+## 🧠 Competitive Programming
+
+<div align="center">
+
+| Platform | Profile Link | Stats / Activity |
+| :--- | :--- | :--- |
+| 🔴 **Codeforces** | [samiemtiaz008](https://codeforces.com/profile/samiemtiaz008) | 157+ Problems Solved |
+| 🐝 **Beecrowd** | [Profile 1089506](https://judge.beecrowd.com/en/profile/1089506) | Active Problem Solver |
+
+</div>
+
+---
+
+## 📜 Certifications
+
+<div align="center">
+
+| Certificate Title | Platform / Issuer | Issue Date | Verification Link |
+| :--- | :--- | :---: | :---: |
+| 🏅 **Foundation of Cybersecurity** | Coursera | Apr 2026 | [View Certificate](https://www.coursera.org/account/accomplishments/certificate/WARAL2XWLWDR) |
+| 🏅 **Operating Systems and You: Becoming a Power User** | Coursera | May 2026 | [View Certificate](https://www.coursera.org/account/accomplishments/certificate/X9G02O61Q3QL) |
+| 🏅 **C Programming Language** | 10 Minute School | Jul 2025 | [View Certificate](https://10minuteschool.com/certificate/6874c04fcc117) |
+| 🏅 **Cyber Hygiene** | SF Cyber | Jul 2025 | [View Certificate](https://sf-cyber-sochetonota.s3.ap-southeast-1.amazonaws.com/public/course/certificate/md_emtiaz_hossain_sami_cyber_hygiene_53943.pdf) |
+| 🏅 **Communication Hacks** | 10 Minute School | May 2026 | [View Certificate](https://10minuteschool.com/certificate/6a12822649b55) |
+
+</div>
+
+---
+
+## 📚 Currently Learning
+
+| Skill / Domain | Technologies & Topics | Status |
+| :--- | :--- | :---: |
+| ⚛️ **Frontend** | React.js & Advanced UI Frameworks | 🔄 In Progress |
+| ⚙️ **Backend** | Node.js, Express.js & Microservices | 🔄 In Progress |
+| 🍃 **Database & API** | MongoDB & RESTful API Architecture | 🔄 In Progress |
+| 🛠️ **DevOps & Version Control** | Git, GitHub Actions & Deployment Tools | 🔄 In Progress |
+| 🤖 **AI & ML** | AI Engineering & Machine Learning Fundamentals | 🔄 In Progress |
+
+---
+
+## 🎯 2026 Goals
+
+| Category | Milestone Target |
+| :--- | :--- |
+| 🌟 **GitHub Repositories** | 100+ Repositories |
+| 🚀 **Live Projects** | 50+ Deployed Projects |
+| 💼 **Career Goal** | Software Engineering Internship |
+| ⭐ **Community Reach** | 1000+ GitHub Followers |
+| 🤖 **Product Development** | AI SaaS & Web Applications |
+| 🌍 **Open Source** | Active Open Source Contributions |
+
+---
+
+## 💡 Random Dev Quote
+
+> *"First, solve the problem. Then, write the code."*  
+> — **John Johnson**
+
+---
+
+## 📫 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emtiaz-hossain-6b4416340/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sami21-lgtm)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/emtiaz.hossain.2478)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sami_e.m.t.i.a.z_008/)
+[![X/Twitter](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/008emtiazS)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samiemtiaz38@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/8801998453990)
+
+</div>
+
+---
+
+## ⚡ Fun Facts
+
+| Icon | Fact Details |
+| :---: | :--- |
+| 💻 | I love building responsive web apps with modern Glassmorphism designs. |
+| 🤖 | AI and Robotics are my favorite emerging fields (built a Human Following Robot!). |
+| 🧠 | Competitive programming keeps my problem-solving skills sharp (157+ Codeforces solved). |
+| 🏋️ | Dedicated to fitness and bodybuilding outside of coding. |
+| 👨‍🏫 | Active private tutor teaching ICT and Science students. |
+| ☕ | Coffee + Code = Maximum Productivity. |
+| 🚀 | Dream Companies: Google \| Microsoft \| OpenAI |
+
+---
+
+## ❤️ Support My Work
+
+<p align="center">
+  If you like my projects and contributions, feel free to give a ⭐ to my repositories!
+</p>
+
+---
+
+## ✨ Quote of the Day
+
+> *"Code. Learn. Build. Repeat."*
+
+<p align="center">
+  ⭐ <b>Thanks for visiting my profile!</b>
+</p>
