@@ -166,27 +166,38 @@
 
 ## 💻 Developer Terminal
 
-```bash
+<details>
+<summary><b>👤 About Me</b></summary>
+
+<br>
+
 > sami21-lgtm
 
 👤 Md. Emtiaz Hossain Sami
 
-> current_status
+### 🟢 Current Status
+Available for Software Engineering Internship
 
-🟢 Available for Software Engineering Internship
+### 🎯 Current Focus
 
-> current_focus
+✔ Full Stack Web Development  
+✔ Glassmorphism UI/UX Design  
+✔ Artificial Intelligence & Robotics  
+✔ Problem Solving (157+ Solved on Codeforces)  
+✔ Clean Code & Scalable Systems  
 
-✔ Full Stack Web Development
-✔ Glassmorphism UI/UX Design
-✔ Artificial Intelligence & Robotics
-✔ Problem Solving (157+ Solved on Codeforces)
-✔ Clean Code & Scalable Systems
+### 🚀 Life Goal
 
-> life_goal
+Build software & hardware solutions that impact millions of people.
 
-🚀 Build software & hardware solutions that impact millions of people.
-## ⚡ 2026 Objectives
+</details>
+
+---
+
+<details>
+<summary><b>⚡ 2026 Objectives</b></summary>
+
+<br>
 
 | Objective | Target Goal |
 | :--- | :--- |
@@ -197,11 +208,14 @@
 | 📚 **Continuous Learning** | Advanced System Design & Scalable Cloud Technologies |
 | 💼 **Career Launch** | Transition smoothly into professional software engineering |
 
+</details>
+
 ---
 
-## 🛠 Featured Projects
+<details>
+<summary><b>🛠 Featured Projects</b></summary>
 
-<div align="center">
+<br>
 
 | 🚀 Project | 🌐 Live Demo / Repository |
 | :--- | :--- |
@@ -215,27 +229,19 @@
 | 🌸 **Pahela Baishakh Page** | [Live Demo](https://sami21-lgtm.github.io/Pahela-Baishakh/) |
 | 🌐 **Personal Own Portal** | [Live Demo](https://sami21-lgtm.github.io/Own-portal/) |
 
-</div>
+</details>
 
 ---
 
-<!-- ========================================================== -->
-<!--                     📂 MORE PROJECTS                       -->
-<!-- ========================================================== -->
-## 📂 More Projects
-
-<div align="center">
-
 <details>
-<summary><b>🔽 Click Here to View All Projects (▶️ Expand / Collapse)</b></summary>
+<summary><b>📂 More Projects — Click to View</b></summary>
+
 <br>
 
-<div align="left">
-
 ### 🤖 AI Projects & Assistive Tools
-* 🤖 **Doctor AI Chatbot** — Intelligent conversational agent for basic medical queries
-* 🏥 **Doctor AI Assistant** — Diagnostic support assistant tool
-* 🧠 **Sami's AI Assistant** — Personalized task automation bot
+* 🤖 **Doctor AI Chatbot**
+* 🏥 **Doctor AI Assistant**
+* 🧠 **Sami's AI Assistant**
 
 ### 🏥 Management Systems & Portals
 * 🏥 Hospital Management System
@@ -247,10 +253,10 @@
 * 🍽️ Ma-Baba's Restaurant Management System
 
 ### 📡 Radio & Hardware Systems
-* 🤖 **Human Following Robot Prototype** — Smart robotics hardware prototype
-* 📻 **Ham Radio Live** — Real-time radio signal interface
-* 🌍 **World Radio League** — Global radio frequency portal
-* 📡 **Radar System** — Object detection visualizer
+* 🤖 Human Following Robot Prototype
+* 📻 Ham Radio Live
+* 🌍 World Radio League
+* 📡 Radar System
 
 ### 🎨 UI / CSS / Interactive JS Experiments
 * 🦸 3D Hover Avengers Card
@@ -266,133 +272,85 @@
 * 🚀 Space Explorer & Mini Car Games
 
 ### 📄 Utilities & Educational Portals
-* 📑 **DIU Lab Report PDF Generator** — Instant academic PDF generator
-* 📚 **Assignment PDF Portal** — Assignment management & export tool
-* 💰 **Expense Tracker** — Financial monitoring dashboard
-* 🌤️ **Weather Checking App** — Live API-driven weather updates
+* 📑 DIU Lab Report PDF Generator
+* 📚 Assignment PDF Portal
+* 💰 Expense Tracker
+* 🌤️ Weather Checking App
 
-</div>
 </details>
 
-</div>
+---
+
+<details>
+<summary><b>🧠 Competitive Programming</b></summary>
+
+<br>
+
+| Platform | Profile | Achievements |
+| :--- | :--- | :--- |
+| 💻 **Codeforces** | [@samiemtiaz008](https://codeforces.com/profile/samiemtiaz008) | 🧩 **157+** Problems Solved |
+| 🐝 **Beecrowd** | [Profile #1089506](https://judge.beecrowd.com/en/profile/1089506) | ⚡ Active Problem Solver |
+
+</details>
 
 ---
 
-<!-- ========================================================== -->
-<!--               🧠 COMPETITIVE PROGRAMMING                   -->
-<!-- ========================================================== -->
-## 🧠 Competitive Programming
+<details>
+<summary><b>📜 Certifications</b></summary>
 
-<div align="center">
+<br>
 
-| Platform | Profile | Achievements & Activity |
-| :---: | :---: | :--- |
-| <img src="https://simpleicons.org/v13/codeforces.svg" width="20" height="20" /> **Codeforces** | [`@samiemtiaz008`](https://codeforces.com/profile/samiemtiaz008) | 🧩 **157+** Problems Solved • Algorithmic Logic |
-| 🐝 **Beecrowd** | [`Profile #1089506`](https://judge.beecrowd.com/en/profile/1089506) | ⚡ Active Problem Solver • Data Structures |
-
-</div>
-
----
-
-<!-- ========================================================== -->
-<!--                   📜 CERTIFICATIONS                        -->
-<!-- ========================================================== -->
-## 📜 Certifications
-
-<div align="center">
-
-| Certificate Title | Platform / Issuer | Issue Date | Official Credential |
+| Certificate Title | Platform | Issue Date | Credential |
 | :--- | :---: | :---: | :---: |
-| 🏅 **Foundation of Cybersecurity** | Coursera | Apr 2026 | [Verify Certificate ↗️](https://www.coursera.org/account/accomplishments/certificate/WARAL2XWLWDR) |
-| 🏅 **Operating Systems & Power User** | Coursera | May 2026 | [Verify Certificate ↗️](https://www.coursera.org/account/accomplishments/certificate/X9G02O61Q3QL) |
-| 🏅 **C Programming Language** | 10 Minute School | Jul 2025 | [Verify Certificate ↗️](https://10minuteschool.com/certificate/6874c04fcc117) |
-| 🏅 **Cyber Hygiene** | SF Cyber | Jul 2025 | [Verify Certificate ↗️](https://sf-cyber-sochetonota.s3.ap-southeast-1.amazonaws.com/public/course/certificate/md_emtiaz_hossain_sami_cyber_hygiene_53943.pdf) |
-| 🏅 **Communication Hacks** | 10 Minute School | May 2026 | [Verify Certificate ↗️](https://10minuteschool.com/certificate/6a12822649b55) |
+| 🏅 Foundation of Cybersecurity | Coursera | Apr 2026 | [Verify ↗️](https://www.coursera.org/account/accomplishments/certificate/WARAL2XWLWDR) |
+| 🏅 Operating Systems & Power User | Coursera | May 2026 | [Verify ↗️](https://www.coursera.org/account/accomplishments/certificate/X9G02O61Q3QL) |
+| 🏅 C Programming Language | 10 Minute School | Jul 2025 | [Verify ↗️](https://10minuteschool.com/certificate/6874c04fcc117) |
+| 🏅 Cyber Hygiene | SF Cyber | Jul 2025 | [Verify ↗️](https://sf-cyber-sochetonota.s3.ap-southeast-1.amazonaws.com/public/course/certificate/md_emtiaz_hossain_sami_cyber_hygiene_53943.pdf) |
+| 🏅 Communication Hacks | 10 Minute School | May 2026 | [Verify ↗️](https://10minuteschool.com/certificate/6a12822649b55) |
 
-</div>
+</details>
 
 ---
 
-<!-- ========================================================== -->
-<!--                 📚 CURRENTLY LEARNING                      -->
-<!-- ========================================================== -->
-## 📚 Currently Learning
+<details>
+<summary><b>📚 Currently Learning</b></summary>
 
-<div align="center">
+<br>
 
-| Domain | Focus Technologies | Mastery Level |
+| Domain | Focus Technologies | Level |
 | :--- | :--- | :---: |
-| ⚛️ **Frontend** | React.js & Advanced UI Frameworks | `🟩🟩🟩⬜⬜` |
-| ⚙️ **Backend** | Node.js, Express.js & Microservices | `🟩🟩🟩⬜⬜` |
-| 🍃 **Database** | MongoDB & RESTful API Architecture | `🟩🟩🟩⬜⬜` |
-| 🛠️ **DevOps** | Git, GitHub Actions & CI/CD Pipelines | `🟩🟩⬜⬜⬜` |
-| 🤖 **AI & ML** | AI Engineering & Neural Networks Basics | `🟩🟩🟩⬜⬜` |
+| ⚛️ Frontend | React.js & Advanced UI Frameworks | 🟩🟩🟩⬜⬜ |
+| ⚙️ Backend | Node.js, Express.js & Microservices | 🟩🟩🟩⬜⬜ |
+| 🍃 Database | MongoDB & RESTful API | 🟩🟩🟩⬜⬜ |
+| 🛠️ DevOps | Git, GitHub Actions & CI/CD | 🟩🟩⬜⬜⬜ |
+| 🤖 AI & ML | AI Engineering & Neural Networks | 🟩🟩🟩⬜⬜ |
 
-</div>
+</details>
 
 ---
 
-<!-- ========================================================== -->
-<!--                     🎯 2026 GOALS                          -->
-<!-- ========================================================== -->
-## 🎯 2026 Goals
+<details>
+<summary><b>🎯 2026 Goals</b></summary>
 
-<div align="center">
+<br>
 
 | Metric Category | Milestone Target | Progress Status |
 | :--- | :--- | :---: |
-| 🌟 **GitHub Repositories** | **100+** Public Repositories | 🚀 `In Progress` |
-| 🚀 **Live Projects** | **50+** Deployed Applications | 🌐 `In Progress` |
-| 💼 **Career Milestone** | Software Engineering Internship | 🎯 `Target Goal` |
-| ⭐ **Community Reach** | **1000+** GitHub Followers | 📈 `Growing` |
-| 🤖 **Product Dev** | Full Stack AI SaaS Solutions | 💡 `Designing` |
-| 🌍 **Open Source** | Core Contributor Status | 🤝 `Active` |
+| 🌟 GitHub Repositories | **100+** Public Repositories | 🚀 In Progress |
+| 🚀 Live Projects | **50+** Deployed Applications | 🌐 In Progress |
+| 💼 Career Milestone | Software Engineering Internship | 🎯 Target Goal |
+| ⭐ Community Reach | **1000+** GitHub Followers | 📈 Growing |
+| 🤖 Product Dev | Full Stack AI SaaS Solutions | 💡 Designing |
+| 🌍 Open Source | Core Contributor Status | 🤝 Active |
 
-</div>
-
----
-
-<!-- ========================================================== -->
-<!--                 📫 CONNECT & FUN FACTS                     -->
-<!-- ========================================================== -->
-## 💡 Dev Quote
-
-> *"First, solve the problem. Then, write the code."*  
-> — **John Johnson**
+</details>
 
 ---
 
-## 📫 Connect With Me
+<details>
+<summary><b>💡 Fun Facts</b></summary>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/emtiaz-hossain-6b4416340/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/sami21-lgtm">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.facebook.com/emtiaz.hossain.2478">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/sami_e.m.t.i.a.z_008/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://x.com/008emtiazS">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
-  </a>
-  <a href="mailto:samiemtiaz38@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://wa.me/8801998453990">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  </a>
-</p>
-
----
-
-## ⚡ Fun Facts
-
-<div align="center">
+<br>
 
 | Icon | Developer Insights |
 | :---: | :--- |
@@ -401,23 +359,7 @@
 | 🧠 | Competitive programming enthusiast with **157+** problem solutions on Codeforces. |
 | 🏋️ | Dedicated fitness & bodybuilding practitioner outside the code editor. |
 | 👨‍🏫 | Passionate ICT & Science private tutor mentoring young minds. |
-| ☕ | **Formula:** `Coffee` + `Clean Code` = `Optimal Productivity` |
-| 🚀 | **Dream Destinations:** Google • Microsoft • OpenAI |
+| ☕ | `Coffee + Clean Code = Optimal Productivity` |
+| 🚀 | Dream Destinations: Google • Microsoft • OpenAI |
 
-</div>
-
----
-
-<div align="center">
-
-### ❤️ Support My Work
-
-If you find my projects helpful or interesting, consider leaving a ⭐ on my repositories!
-
-***
-
-> *"Code. Learn. Build. Repeat."*
-
-**Thanks for visiting my profile!** 🚀
-
-</div>
+</details>
