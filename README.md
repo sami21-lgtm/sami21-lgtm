@@ -1,18 +1,17 @@
-
 <!-- ========================= -->
 <!--      PREMIUM HEADER       -->
 <!-- ========================= -->
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Md.%20Emtiaz%20Hossain%20Sami&fontSize=48&fontAlignY=40&desc=Software%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20AI%20Enthusiast&descAlignY=60&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Md.%20Emtiaz%20Hossain%20Sami&fontSize=48&fontAlignY=40&desc=Software%20Engineering%20Student%20%7C%20Front-End%20Developer%20%7C%20Competitive%20Programmer&descAlignY=60&animation=fadeIn"/>
 </p>
 
 <h3 align="center">
-🚀 Software Engineering Student • Full Stack Developer • AI Enthusiast
+🚀 Software Engineering Student • Front-End Developer • Competitive Programmer • AI & Robotics Enthusiast
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1200&color=00F7FF&center=true&vCenter=true&width=850&lines=Full+Stack+Developer;AI+Engineering+Enthusiast;Building+Scalable+Applications;Always+Learning+New+Technologies;Open+Source+Contributor;Future+Software+Engineer"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1200&color=00F7FF&center=true&vCenter=true&width=850&lines=Software+Engineering+Student;Front-End+Developer;Glassmorphism+UI%2FUX+Specialist;157%2B+Codeforces+Problems+Solved;Building+Robotics+%26+Human+Following+Robot;Always+Learning+New+Technologies"/>
 </p>
 
 ---
@@ -21,13 +20,67 @@
 
 <img align="right" width="340" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif"/>
 
-🎓 **Software Engineering Student** at **Daffodil International University**  
-💻 Passionate about building **Modern Web Applications**  
-🤖 Exploring **Artificial Intelligence** & **Machine Learning**  
-🚀 Love creating beautiful **UI/UX** with scalable backend systems  
-🌱 Always learning new technologies and transforming ideas into real-world software.
+🎓 **Software Engineering Student** at **Daffodil International University (DIU)**  
+💻 Passionate **Front-End Developer** specializing in **Glassmorphism Design** and Responsive Web Interfaces  
+🧠 Active Competitive Programmer on **Codeforces** (`samiemtiaz008`) with 157+ problems solved  
+🤖 **Robotics Enthusiast**, successfully built hardware prototypes like a **Human Following Robot**  
+🏋️ Tech enthusiast balancing coding with fitness and bodybuilding  
+🌱 Private tutor for ICT and science students, continuously pushing technical limits!
 
 <br clear="right"/>
+
+---
+
+# 📫 Connect With Me
+
+<p align="center">
+
+<a href="mailto:samiemtiaz38@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/emtiaz-hossain-6b4416340/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/sami21-lgtm">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.facebook.com/emtiaz.hossain.2478">
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+</a>
+
+<a href="https://www.instagram.com/sami_e.m.t.i.a.z_008/">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="https://x.com/008emtiazS">
+<img src="https://img.shields.io/badge/X_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white"/>
+</a>
+
+<a href="https://sami21-lgtm.github.io/Own-portal/">
+<img src="https://img.shields.io/badge/Live_Portal-00F7FF?style=for-the-badge&logo=vercel&logoColor=black"/>
+</a>
+
+</p>
+
+---
+
+# 📜 Certifications & Achievements
+
+<div align="center">
+
+| Certificate Title | Issuing Organization | Issue Date | Verification Link |
+| :--- | :--- | :---: | :---: |
+| 🛡️ **Foundation of Cybersecurity** | **Coursera** | Apr 2026 | [![View Certificate](https://img.shields.io/badge/Verify-Certificate-blue?style=for-the-badge&logo=coursera)](https://www.coursera.org/account/accomplishments/certificate/WARAL2XWLWDR) |
+| 💻 **Operating Systems and You: Becoming a Power User** | **Coursera** | May 2026 | [![View Certificate](https://img.shields.io/badge/Verify-Certificate-blue?style=for-the-badge&logo=coursera)](https://www.coursera.org/account/accomplishments/certificate/X9G02O61Q3QL) |
+| ⚡ **C Programming Language** | **10 Minute School** | Jul 2025 | [![View Certificate](https://img.shields.io/badge/Verify-Certificate-green?style=for-the-badge)](https://10minuteschool.com/certificate/6874c04fcc117) |
+| 🔒 **Cyber Hygiene** | **SF Cyber / Sochetonota** | Jul 2025 | [![View Certificate](https://img.shields.io/badge/Verify-Certificate-success?style=for-the-badge)](https://sf-cyber-sochetonota.s3.ap-southeast-1.amazonaws.com/public/course/certificate/md_emtiaz_hossain_sami_cyber_hygiene_53943.pdf) |
+| 🗣️ **Communication Hacks** | **10 Minute School** | May 2026 | [![View Certificate](https://img.shields.io/badge/Verify-Certificate-green?style=for-the-badge)](https://10minuteschool.com/certificate/6a12822649b55) |
+| 🏆 **DIU CodeTrap Programming Contest** | **DIU Software Engineering Club** | Jul 2025 | 🏅 *E-Certificate Awarded* |
+
+</div>
 
 ---
 
@@ -37,11 +90,11 @@
 
 | Area | Focus Details |
 | :--- | :--- |
-| ⚛️ **Frontend Development** | Building scalable web applications with **React.js** |
-| 🛠️ **Backend Architecture** | Constructing robust backend services using **Node.js** & **Express.js** |
-| 🗄️ **Database Design** | Working with **MongoDB** for modern database solutions |
-| 🤖 **Artificial Intelligence** | Exploring practical applications of **AI & Machine Learning** |
-| 📈 **Core Engineering** | Continuously improving **Problem Solving**, **System Design**, & **Software Skills** |
+| 🎨 **UI/UX & Glassmorphism** | Developing modern responsive interfaces with modern CSS & React.js |
+| 🛠️ **Backend Architecture** | Building scalable services with Node.js, Express.js & MongoDB |
+| 🤖 **Robotics & Hardware** | Building embedded hardware solutions like Human Following Robots |
+| 🧠 **Problem Solving** | Practicing algorithmic logic daily on Codeforces & Beecrowd |
+| 📈 **Core Engineering** | Improving System Design, Clean Code, & Software Engineering principles |
 
 </div>
 
@@ -51,23 +104,23 @@
 
 <div align="center">
 
-| Objective | Target Goal |
+| Goal Category | Description & Target |
 | :--- | :--- |
-| 💼 **Internship** | Secure a **Software Engineering Internship** |
-| 🚀 **Development** | Build **Production-Ready Full Stack Applications** |
-| 🌍 **Open Source** | Actively contribute to **Open Source Communities** |
-| 🤖 **AI Innovations** | Create **AI-Driven Software Solutions** |
-| 📚 **Continuous Learning** | Master modern tech stacks and industry best practices |
+| 💼 **Internship Goal** | Secure a Software Engineering / Web Development Internship |
+| 🚀 **Full-Stack Projects** | Build 50+ production-ready web & AI applications |
+| 🤖 **Robotics & AI** | Combine web technologies with AI and hardware automation |
+| 🌍 **Open Source** | Active contribution to open-source developer communities |
+| 📚 **Continuous Growth** | Master advanced software architecture & modern tech stacks |
 
 </div>
 
 ---
 
-# 🛠️ Tech Stack
+# 🛠️ Tech Stack & Digital Skills
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,git,github,vscode,figma,c,cpp&perline=6"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,c,cpp,git,github,vscode,figma&perline=7"/>
 
 </div>
 
@@ -75,13 +128,15 @@
 
 <div align="center">
 
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"/>
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
 
 </div>
 
@@ -105,7 +160,11 @@
   </a>
 </p>
 
-
+<p align="center">
+  <a href="https://github.com/sami21-lgtm">
+    <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=sami21-lgtm&theme=tokyonight&hide_border=true&custom_title=GitHub%20Contribution%20Graph&area=true"/>
+  </a>
+</p>
 
 ---
 
@@ -113,298 +172,216 @@
 <!--                 ⚡ DEVELOPER OPERATING SYSTEM               -->
 <!-- ========================================================== -->
 
-<h2 align="center">⚡ Developer Operating System v2026</h2>
+<h2 align="center">⚡ Developer Profile Summary</h2>
 
 <p align="center">
-<img src="https://img.shields.io/badge/STATUS-ONLINE-00C853?style=for-the-badge&logo=statuspage&logoColor=white"/>
+<img src="https://img.shields.io/badge/STATUS-ACTIVE-00C853?style=for-the-badge&logo=statuspage&logoColor=white"/>
 <img src="https://img.shields.io/badge/MODE-BUILDING-2962FF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/COFFEE-READY-6D4C41?style=for-the-badge&logo=buymeacoffee&logoColor=white"/>
-<img src="https://img.shields.io/badge/BUGS-FIXING-red?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LOCATION-DHAKA,%20BANGLADESH-red?style=for-the-badge&logo=googlemaps&logoColor=white"/>
 </p>
 
 ---
 
 <div align="center">
 
-| 🧑‍💻 Profile | 📌 Details |
+| 🧑‍💻 Profile Key | 📌 Details |
 |:------------|:-----------|
-| 👤 **Name** | **Md. Emtiaz Hossain Sami** |
+| 👤 **Full Name** | **MD. Emtiaz Hossain Sami** |
 | 🎓 **Degree** | B.Sc. in Software Engineering |
-| 🏛️ **University** | Daffodil International University |
-| 🌍 **Country** | Bangladesh 🇧🇩 |
-| 💼 **Role** | Full Stack Developer |
-| 🤖 **Interest** | Artificial Intelligence |
-| 🚀 **Focus** | Modern Web Development |
+| 🏛️ **University** | Daffodil International University (DIU) |
+| 📍 **Location** | Kallyanpur, Dhaka, Bangladesh 🇧🇩 |
+| 💼 **Role** | Front-End Developer & SWE Student |
+| 🎨 **Specialization** | Glassmorphism & Modern Web Design |
+| 🤖 **Interests** | Competitive Programming & Robotics |
 | 💻 **Languages** | C • C++ • JavaScript |
-| ⚛️ **Frontend** | HTML • CSS • React |
-| ⚙️ **Backend** | Node.js • Express.js |
-| 🍃 **Database** | MongoDB |
 | 🛠️ **Tools** | Git • GitHub • VS Code • Figma |
-| 📈 **Availability** | 🟢 Open to Internship Opportunities |
+| 📞 **Contact** | 01998453990 \| samiemtiaz38@gmail.com |
+| 🟢 **Availability** | Open to Software Engineering Internships |
 
 </div>
-
----
-
-## 🚀 Current Mission
-
-<div align="center">
-
-| Status | Mission Priority |
-| :---: | :--- |
-| 🟢 | **Building Production-Ready Projects** |
-| 🟢 | **Mastering React Ecosystem** |
-| 🟢 | **Exploring AI Engineering** |
-| 🟢 | **Improving Problem Solving** |
-| 🟢 | **Contributing to Open Source** |
-
-</div>
-
----
-
-## 📊 Skill Matrix
-
-<div align="center">
-
-| Technology | Proficiency |
-|------------|:-----------:|
-| 🌐 HTML | 🟩🟩🟩🟩🟩 |
-| 🎨 CSS | 🟩🟩🟩🟩🟩 |
-| ⚡ JavaScript | 🟩🟩🟩🟩🟩 |
-| ⚛️ React.js | 🟩🟩🟩⬜⬜ |
-| 🟢 Node.js | 🟩🟩🟩⬜⬜ |
-| 🚀 Express.js | 🟩🟩🟩⬜⬜ |
-| 🍃 MongoDB | 🟩🟩🟩⬜⬜ |
-| 🤖 AI Engineering | 🟩🟩🟩🟩🟩 |
-
-</div>
-
----
-
-## 💻 Developer Terminal
-
-```bash
-> sami21-lgtm
-
-👤 Md. Emtiaz Hossain Sami
-
-> current_status
-
-🟢 Available for Software Engineering Internship
-
-> current_focus
-
-✔ Full Stack Development
-✔ Artificial Intelligence
-✔ Clean Code
-✔ Modern UI/UX
-✔ Scalable Backend Systems
-
-> life_goal
-
-🚀 Build software that impacts millions of people.
-
-```
-
----
-
-## ⚡ 2026 Objectives
-
-| Objective | Target Goal |
-| --- | --- |
-| 🎯 | **Software Engineering Internship** |
-| 🚀 | **Build 50+ Production Projects** |
-| 🤖 | **AI-Powered Web Applications** |
-| 🌍 | **Open Source Contributions** |
-| 📚 | **Continuous Learning** |
-| 💼 | **Launch Professional Career** |
-
----
-
-# 🛠 Featured Projects
-
-| 🚀 Project | 🌐 Live Demo / Repository |
-| --- | --- |
-| 🤖 Doctor's AI Assistant | [View Project](https://www.google.com/search?q=https://doctor-s-ai-assistant.vercel.app) |
-| 🏥 CareSync Hospital Management | [View Project](https://www.google.com/search?q=https://care-sync-hospital-c69f.vercel.app) |
-| 🍽 Restaurant Management System | [View Project](https://www.google.com/search?q=https://sami21-lgtm.github.io/Sami-s-restaurant/) |
-| 🏥 Modern Hospital Management | [View Project](https://www.google.com/search?q=https://sami21-lgtm.github.io/modern-hospital-management-system/) |
-| 📡 Radar System | [View Project](https://www.google.com/search?q=https://sami21-lgtm.github.io/New-rader-system/) |
-| 📻 Tactical Ham Radio | [View Project](https://www.google.com/search?q=https://sami21-lgtm.github.io/Tactical-Ham-radio-system/) |
-| 🌦 Weather Forecast | [View Project](https://www.google.com/search?q=https://sami21-lgtm.github.io/weather-forecast/) |
-| 🌆 Cyberpunk Future City | [View Project](https://www.google.com/search?q=https://sami21-lgtm.github.io/Cyberpunk-Future-City/) |
-| 🎨 ADOR Portfolio | [View Project](https://www.google.com/search?q=https://sami21-lgtm.github.io/ADOR-portfolio/) |
-| 📄 Lab Report PDF Generator | [View Project](https://www.google.com/search?q=https://sami21-lgtm.github.io/Lab-Report-PDF-Generator/) |
-| 🏨 Family Hotel Reservation | [View Project](https://www.google.com/search?q=https://sami21-lgtm.github.io/Family-Hotel/) |
-
----
-
-# ⭐ More Projects
-
-### 🤖 AI Projects
-
-* [Sami's AI](https://www.google.com/search?q=https://sami-s-ai.vercel.app)
-* [Doctor AI Chatbot](https://www.google.com/search?q=https://sami-doctor-ai-chatbot.vercel.app)
-* [Doctor AI Assistant](https://www.google.com/search?q=https://sami21-lgtm.github.io/-Doctor-AI-Assistant/)
-
----
-
-### 🏥 Management Systems
-
-* [Hospital Management System](https://www.google.com/search?q=https://github.com/sami21-lgtm/hospital-management-system)
-* [Hotel Management System](https://www.google.com/search?q=https://github.com/sami21-lgtm/Hotel-Management-system)
-* [Hostel Management System](https://www.google.com/search?q=https://github.com/sami21-lgtm/Hostel-Management-System)
-* [Bank Management System](https://www.google.com/search?q=https://github.com/sami21-lgtm/Bank-Management-system)
-* [Clinic Management System](https://www.google.com/search?q=https://github.com/sami21-lgtm/Clinic-Management-System)
-* [Guest House AquaStay](https://www.google.com/search?q=https://github.com/sami21-lgtm/-Guest-House-AquaStay)
-* [Ma-Baba's Restaurant](https://www.google.com/search?q=https://sami21-lgtm.github.io/Ma-Baba-s-Restaurant/)
-
----
-
-### 📡 Radio & Radar
-
-* [Ham Radio Live](https://www.google.com/search?q=https://github.com/sami21-lgtm/Ham-Radio-Live)
-* [World Radio League](https://www.google.com/search?q=https://github.com/sami21-lgtm/World-Radio-League)
-* [Radar System](https://www.google.com/search?q=https://github.com/sami21-lgtm/radar-system)
-
----
-
-### 🌐 Portfolio & Web Portals
-
-* [Portfolio](https://www.google.com/search?q=https://github.com/sami21-lgtm/Md.-Emtiaz-Hossain-Sami-Portfolio)
-* [Personal Profile](https://www.google.com/search?q=https://github.com/sami21-lgtm/Md.-Emtiaz-Hossain-Sami)
-* [RADOR Portfolio](https://www.google.com/search?q=https://github.com/sami21-lgtm/RADOR-Portfolio)
-* [Own Portal](https://www.google.com/search?q=https://github.com/sami21-lgtm/Own-portal)
-* [Making Portal](https://www.google.com/search?q=https://github.com/sami21-lgtm/making-portal)
-* [Making My Portal](https://www.google.com/search?q=https://github.com/sami21-lgtm/Making-my-portal)
-* [Animated Portal Making](https://www.google.com/search?q=https://github.com/sami21-lgtm/animated-portal-making)
-* [Creative Portal Making](https://www.google.com/search?q=https://github.com/sami21-lgtm/creative-portal-making)
-* [Creative Portal](https://www.google.com/search?q=https://github.com/sami21-lgtm/Creative-Portal)
-* [Portal](https://www.google.com/search?q=https://github.com/sami21-lgtm/Portal)
-* [Anime Portal](https://www.google.com/search?q=https://github.com/sami21-lgtm/anime-portal)
-* [Making My Website](https://www.google.com/search?q=https://github.com/sami21-lgtm/Making-my-website)
-
----
-
-### 🎨 UI / CSS / JavaScript
-
-* [3D Hover Avengers Card](https://www.google.com/search?q=https://github.com/sami21-lgtm/3D-Hover-Avengers-Card)
-* [Rotating Glowing Earth](https://www.google.com/search?q=https://github.com/sami21-lgtm/Rotating-Glowing-Earth-)
-* [Dynamic Island](https://www.google.com/search?q=https://github.com/sami21-lgtm/Dynamic-Island)
-* [Fly Cart](https://www.google.com/search?q=https://github.com/sami21-lgtm/Fly-Cart)
-* [Banner Text Attractive](https://www.google.com/search?q=https://github.com/sami21-lgtm/Banner-text-attractive)
-* [Banner Text](https://www.google.com/search?q=https://github.com/sami21-lgtm/Banner-text)
-* [Sprite Animation](https://www.google.com/search?q=https://github.com/sami21-lgtm/Sprite)
-* [Tesla Car](https://www.google.com/search?q=https://github.com/sami21-lgtm/Tesla-Car-updated-version)
-* [3D Flip Card](https://www.google.com/search?q=https://github.com/sami21-lgtm/3d-flip-card)
-* [House Build Game](https://www.google.com/search?q=https://github.com/sami21-lgtm/House-build-game)
-* [Joystick Prize](https://www.google.com/search?q=https://github.com/sami21-lgtm/joyostick-prize)
-* [Creative Animated Travel Slider](https://www.google.com/search?q=https://github.com/sami21-lgtm/creative-animated-travel-slidder)
-* [Animated Travel Slider](https://www.google.com/search?q=https://github.com/sami21-lgtm/Animated-travel-slider)
-* [Creating Animated Travel Slider](https://www.google.com/search?q=https://github.com/sami21-lgtm/creating-animated-travel-slider)
-* [Animated Water Login](https://www.google.com/search?q=https://github.com/sami21-lgtm/Animated-water-login)
-* [Drum Kit](https://www.google.com/search?q=https://github.com/sami21-lgtm/drum)
-* [Pepsi Logo Recreation](https://www.google.com/search?q=https://github.com/sami21-lgtm/pepsi-logo-creating)
-* [Numerical Clock](https://www.google.com/search?q=https://github.com/sami21-lgtm/Numerical-Clock)
-* [Liquid Button](https://www.google.com/search?q=https://github.com/sami21-lgtm/liquid-button)
-* [Space Explorer](https://www.google.com/search?q=https://github.com/sami21-lgtm/Space-explorer)
-* [Glass Effect Login](https://www.google.com/search?q=https://github.com/sami21-lgtm/glasseffect-login)
-* [Car Games](https://www.google.com/search?q=https://github.com/sami21-lgtm/car-games)
-
----
-
-### 🎉 Greeting & Creative Pages
-
-* [Eid-ul-Adha Card](https://www.google.com/search?q=https://github.com/sami21-lgtm/Eid-el-adha-eid-card)
-* [Eid Card](https://www.google.com/search?q=https://github.com/sami21-lgtm/eid-card)
-* [Eid-ul-Adha Mubarak](https://www.google.com/search?q=https://github.com/sami21-lgtm/eid.ul.adha-mubarak-card)
-* [Birthday Page](https://www.google.com/search?q=https://github.com/sami21-lgtm/birthday)
-* [Pahela Baishakh](https://www.google.com/search?q=https://sami21-lgtm.github.io/Pahela-Baishakh/)
-* [Barcode Generator](https://www.google.com/search?q=https://github.com/sami21-lgtm/barcode)
-
----
-
-### 🛠️ Utilities
-
-* [Expense Tracker](https://www.google.com/search?q=https://github.com/sami21-lgtm/expense-tracker)
-* [Weather Checking](https://www.google.com/search?q=https://github.com/sami21-lgtm/Weather-checking)
-* [DIU Lab Report PDF Generator](https://www.google.com/search?q=https://github.com/sami21-lgtm/diu-lab-report-pdf-generator)
-* [Assignment PDF Portal](https://www.google.com/search?q=https://github.com/sami21-lgtm/making-assignment-pdf-portal)
 
 ---
 
 # 🧠 Competitive Programming
 
+<p align="center">
+
+<a href="https://codeforces.com/profile/samiemtiaz008">
+<img src="https://img.shields.io/badge/Codeforces-samiemtiaz008-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/u/bqIihi9kCO/">
+<img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+<a href="https://judge.beecrowd.com/en/profile/1089506">
+<img src="https://img.shields.io/badge/Beecrowd-1089506-1A5276?style=for-the-badge"/>
+</a>
+
+</p>
+
+<div align="center">
+
+| Platform | Handle | Stats / Achievement | Link |
+| :--- | :---: | :---: | :---: |
+| 🔵 **Codeforces** | `samiemtiaz008` | **157+ Problems Solved** | [View Profile](https://codeforces.com/profile/samiemtiaz008) |
+| 🟡 **LeetCode** | `bqIihi9kCO` | Active Solver | [View Profile](https://leetcode.com/u/bqIihi9kCO/) |
+| 🟢 **Beecrowd** | `1089506` | Active Solver | [View Profile](https://judge.beecrowd.com/en/profile/1089506) |
+
+</div>
+
 ---
 
-# 📜 Certifications
+# 🛠 Featured Projects
 
-| Certificate Title | Platform / Issuer | Date | Badge |
-| --- | --- | --- | --- |
-| 🏅 **Foundation of Cybersecurity** | Coursera | Apr 2026 | [](https://www.google.com/search?q=https://www.coursera.org/account/accomplishments/certificate/WARAL2XWLWDR) |
-| 🏅 **Operating Systems and You: Becoming a Power User** | Coursera | May 2026 | [](https://www.google.com/search?q=https://www.coursera.org/account/accomplishments/certificate/X9G02O61Q3QL) |
-| 🏅 **C Programming Language** | 10 Minute School | Jul 2025 | [](https://www.google.com/search?q=https://10minuteschool.com/certificate/6874c04fcc117) |
-| 🏅 **Cyber Hygiene** | SF Cyber | Jul 2025 | [](https://www.google.com/search?q=https://sf-cyber-sochetonota.s3.ap-southeast-1.amazonaws.com/public/course/certificate/md_emtiaz_hossain_sami_cyber_hygiene_53943.pdf) |
-| 🏅 **Communication Hacks** | 10 Minute School | May 2026 | [](https://www.google.com/search?q=https://10minuteschool.com/certificate/6a12822649b55) |
+<div align="center">
+
+| 🚀 Project Name | 🏷️ Category | 🌐 Live Demo / Repository Link |
+| :--- | :---: | :--- |
+| 🤖 **Doctor's AI Assistant** | AI & Web | [Live Demo](https://doctor-s-ai-assistant.vercel.app) |
+| 🏥 **CareSync Hospital Management** | Full Stack | [Live Demo](https://care-sync-hospital-c69f.vercel.app) |
+| 🍽 **Restaurant Management System** | Web App | [Live Demo](https://sami21-lgtm.github.io/Sami-s-restaurant/) |
+| 🏥 **Modern Hospital Management** | Web App | [Live Demo](https://sami21-lgtm.github.io/modern-hospital-management-system/) |
+| 📡 **New Radar System** | Interactive Web | [Live Demo](https://sami21-lgtm.github.io/New-rader-system/) |
+| 📻 **Tactical Ham Radio** | Web App | [Live Demo](https://sami21-lgtm.github.io/Tactical-Ham-radio-system/) |
+| 🏨 **Hostel Management System** | Management | [GitHub Repo](https://github.com/sami21-lgtm/Hostel-Management-System) |
+| 🏨 **Hotel Management System** | Management | [GitHub Repo](https://github.com/sami21-lgtm/Hotel-Management-system) |
+| 🏝️ **Family Resort & Hotel** | Web App | [Live Demo](https://sami21-lgtm.github.io/Family-Resort/) \| [Hotel](https://sami21-lgtm.github.io/Family-Hotel/) |
+| 🇧🇩 **Pahela Baishakh Greeting** | Creative UI | [Live Demo](https://sami21-lgtm.github.io/Pahela-Baishakh/) |
+| 📄 **DIU Lab Report PDF Generator** | Utility Tool | [Live Demo](https://sami21-lgtm.github.io/Lab-Report-PDF-Generator/) |
+
+</div>
+
+---
+
+# ⭐ All Project Repositories
+
+<details>
+<summary><b>📂 Click to Explore Full Project Archive</b></summary>
+
+<br>
+
+### 🤖 AI & Intelligent Systems
+- [Sami's AI](https://sami-s-ai.vercel.app)
+- [Doctor AI Chatbot](https://sami-doctor-ai-chatbot.vercel.app)
+- [Doctor AI Assistant](https://sami21-lgtm.github.io/-Doctor-AI-Assistant/)
+
+---
+
+### 🏥 Management & Systems
+- [Hospital Management System](https://github.com/sami21-lgtm/hospital-management-system)
+- [Hotel Management System](https://github.com/sami21-lgtm/Hotel-Management-system)
+- [Hostel Management System](https://github.com/sami21-lgtm/Hostel-Management-System)
+- [Bank Management System](https://github.com/sami21-lgtm/Bank-Management-system)
+- [Clinic Management System](https://github.com/sami21-lgtm/Clinic-Management-System)
+- [Guest House AquaStay](https://github.com/sami21-lgtm/-Guest-House-AquaStay)
+- [Ma-Baba's Restaurant](https://sami21-lgtm.github.io/Ma-Baba-s-Restaurant/)
+
+---
+
+### 📡 Radio, Radar & Hardware
+- [Ham Radio Live](https://github.com/sami21-lgtm/Ham-Radio-Live)
+- [World Radio League](https://github.com/sami21-lgtm/World-Radio-League)
+- [Radar System](https://github.com/sami21-lgtm/radar-system)
+
+---
+
+### 🌐 Portals & Personal Websites
+- [Personal Portfolio Website](https://sami.bornosoftnr.com/)
+- [GitHub Personal Portal](https://sami21-lgtm.github.io/Own-portal/)
+- [Md. Emtiaz Hossain Sami Portfolio Repo](https://github.com/sami21-lgtm/Md.-Emtiaz-Hossain-Sami-Portfolio)
+- [RADOR Portfolio](https://github.com/sami21-lgtm/RADOR-Portfolio)
+
+---
+
+### 🎨 Creative UI & Web Experiments
+- [3D Hover Avengers Card](https://github.com/sami21-lgtm/3D-Hover-Avengers-Card)
+- [Rotating Glowing Earth](https://github.com/sami21-lgtm/Rotating-Glowing-Earth-)
+- [Dynamic Island Interface](https://github.com/sami21-lgtm/Dynamic-Island)
+- [Banner Text Attractive Showcase](https://sami21-lgtm.github.io/Banner-text-attractive/)
+- [Cyberpunk Future City](https://sami21-lgtm.github.io/Cyberpunk-Future-City/)
+
+</details>
+
+<br>
+
+<div align="center">
+
+<a href="https://github.com/sami21-lgtm?tab=repositories">
+<img src="https://img.shields.io/badge/🔍_Explore_All_Repositories-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
 
 ---
 
 # 📚 Currently Learning
 
-| Skill / Domain | Technologies & Topics | Status |
-| --- | --- | --- |
-| ⚛️ **Frontend** | React.js | 🔄 In Progress |
-| ⚙️ **Backend** | Node.js & Express.js | 🔄 In Progress |
-| 🍃 **Database & API** | MongoDB & REST API | 🔄 In Progress |
-| 🛠️ **DevOps & Version Control** | Git & GitHub | 🔄 In Progress |
-| 🤖 **AI & ML** | AI Engineering & Machine Learning Basics | 🔄 In Progress |
+<div align="center">
+
+| Topic / Technology | Progress & Status |
+| :--- | :---: |
+| ⚛️ **React.js & Ecosystem** | 🟩🟩🟩🟩⬜ (Advanced UI Components) |
+| 🟢 **Node.js & Express.js** | 🟩🟩🟩⬜⬜ (REST API Development) |
+| 🍃 **MongoDB & Mongoose** | 🟩🟩🟩⬜⬜ (Database Integration) |
+| 🤖 **Artificial Intelligence & ML** | 🟩🟩🟩🟩⬜ (Prompting & AI API Integrations) |
+| 🤖 **Robotics & Microcontrollers** | 🟩🟩🟩🟩🟩 (Hardware Prototyping) |
+
+</div>
 
 ---
 
-# 🎯 2026 Goals
+# ⚡ Fun Facts & Personal Side
 
-| Category | Milestone Target |
-| --- | --- |
-| 🌟 **GitHub Repositories** | 100+ Repositories |
-| 🚀 **Live Projects** | 50+ Deployed Projects |
-| 💼 **Career Goal** | Software Engineering Internship |
-| ⭐ **Community Reach** | 1000+ GitHub Followers |
-| 🤖 **Product Development** | AI SaaS Projects |
-| 🌍 **Open Source** | Active Contributions |
+<div align="center">
+
+| Icon | Fact Details |
+| :---: | :--- |
+| 💻 | Dedicated front-end developer passionate about modern **Glassmorphism design**. |
+| 🧠 | Competitive programmer with **157+ Codeforces problems solved**. |
+| 🏋️ | Passionate about **fitness and bodybuilding** to keep body and mind sharp. |
+| 🤖 | Robotics enthusiast — built hardware prototypes like a **Human Following Robot**. |
+| 📚 | Experienced **private tutor** teaching ICT & Science subjects. |
+| 🚀 | **Dream Companies:** Google \| Microsoft \| OpenAI |
+
+</div>
 
 ---
 
 # 💡 Random Dev Quote
 
 > "First, solve the problem. Then, write the code."
+>
 > — John Johnson
-
----
-
-# 📫 Connect With Me
-
----
-
-# ⚡ Fun Facts
-
-| Icon | Fact Details |
-| --- | --- |
-| 💻 | I love building web applications. |
-| 🤖 | AI is my favorite field. |
-| 🌱 | Every day I learn something new. |
-| ☕ | Coffee + Code = Productivity. |
-| 🚀 | **Dream Companies:** Google | Microsoft | OpenAI |
 
 ---
 
 # ❤️ Support My Work
 
+<p align="center">
+
+<a href="https://github.com/sami21-lgtm?tab=repositories">
+<img src="https://img.shields.io/badge/⭐ Star My Repositories-FFD700?style=for-the-badge"/>
+</a>
+
+<a href="https://github.com/sami21-lgtm">
+<img src="https://img.shields.io/badge/👀 Follow Me-181717?style=for-the-badge"/>
+</a>
+
+</p>
+
 ---
 
-# ✨ Quote of the Day
+<p align="center">
 
-> **"Code. Learn. Build. Repeat."**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
 
----
+</p>
+
+<p align="center">
 
 ### ⭐ Thanks for visiting my profile!
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&center=true&width=700&lines=Happy+Coding!;Thanks+for+visiting!;Let's+Build+Something+Amazing!;See+You+Again!"/>
+
+</p>
