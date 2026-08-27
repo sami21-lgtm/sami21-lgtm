@@ -363,3 +363,23 @@ Build software & hardware solutions that impact millions of people.
 | 🚀 | Dream Destinations: Google • Microsoft • OpenAI |
 
 </details>
+<details>
+<summary><b>❤️ SUPPORT MY WORK</b></summary>
+
+<br>
+
+<div align="center">
+
+### ❤️ Support My Work
+
+If you find my projects helpful or interesting, consider leaving a ⭐ on my repositories!
+
+***
+
+> *"Code. Learn. Build. Repeat."*
+
+**Thanks for visiting my profile!** 🚀
+
+</div>
+
+</details>
