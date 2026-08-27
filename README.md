@@ -105,11 +105,7 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/sami21-lgtm">
-    <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=sami21-lgtm&theme=tokyonight&hide_border=true&custom_title=GitHub%20Contribution%20Graph&area=true"/>
-  </a>
-</p>
+
 
 ---
 
