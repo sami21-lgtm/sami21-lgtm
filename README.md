@@ -1,6 +1,4 @@
-আপনার GitHub profile-এর Contribution Graph fix করা হয়েছে এবং যে যে সেকশনে Table ছিল না (Current Focus, Career Objectives, Current Mission, Certifications, Currently Learning, 2026 Goals, Fun Facts), সেগুলোকে আকর্ষণীয় **Markdown Table**-এ রূপান্তর করে দেওয়া হলো।
 
-```markdown
 <!-- ========================= -->
 <!--      PREMIUM HEADER       -->
 <!-- ========================= -->
