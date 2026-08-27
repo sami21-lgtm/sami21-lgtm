@@ -104,7 +104,9 @@
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sami21-lgtm&theme=tokyo-night"/>
+<a href="https://github.com/sami21-lgtm">
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=sami21-lgtm&theme=tokyo-night&hide_border=true&custom_title=GitHub%20Contribution%20Graph&area=true"/>
+</a>
 
 </p>
 
@@ -575,4 +577,58 @@ Assignment PDF Portal
 <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
 </a>
 
-<a href="https://sami.bornosoftnr.
+<a href="https://sami.bornosoftnr.com/">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+</p>
+
+<br>
+
+⚡ Fun Facts
+
+💻 I love building web applications.
+🤖 AI is my favorite field.
+🌱 Every day I learn something new.
+☕ Coffee + Code = Productivity.
+🚀 Dream Company: Google | Microsoft | OpenAI
+
+❤️ Support My Work
+
+<p align="center">
+
+<a href="https://github.com/sami21-lgtm?tab=repositories">
+
+<img src="https://img.shields.io/badge/⭐ Star My Repositories-FFD700?style=for-the-badge"/>
+
+</a>
+
+<a href="https://github.com/sami21-lgtm">
+
+<img src="https://img.shields.io/badge/👀 Follow Me-181717?style=for-the-badge"/>
+
+</a>
+
+</p>
+
+✨ Quote of the Day
+
+<p align="center">
+
+"Code. Learn. Build. Repeat."
+
+</p>
+
+<p align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+
+</p>
+
+<p align="center">
+
+⭐ Thanks for visiting my profile!
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&center=true&width=700&lines=Happy+Coding!;Thanks+for+visiting!;Let's+Build+Something+Amazing!;See+You+Again!"/>
+
+</p>
